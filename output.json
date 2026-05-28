@@ -1,0 +1,31 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Yeah! Now this is going to be fun, guys!"
+  },
+  { "start": 5.4, "end": 7.0, "text": " I'm a real man, son." },
+  { "start": 9.0, "end": 10.4, "text": " How did you like my joke?" },
+  { "start": 16.8, "end": 17.8, "text": " Who are these people?" },
+  { "start": 19.6, "end": 20.8, "text": " Where do they come from?" },
+  { "start": 26.6, "end": 27.8, "text": " Oh, man!" },
+  { "start": 28.0, "end": 30.6, "text": " Hit me! Hit me! Hit me! Hit me!" },
+  { "start": 31.0, "end": 33.0, "text": " This is a joke! Wait a second!" },
+  { "start": 35.2, "end": 37.6, "text": " Oh, man! I can't take it anymore!" },
+  {
+    "start": 37.8,
+    "end": 39.2,
+    "text": " This is what you call suffering, right?"
+  },
+  { "start": 50.8, "end": 52.2, "text": " Hit me! Hit me!" },
+  {
+    "start": 52.400000000000006,
+    "end": 54.2,
+    "text": " Don't leave me alive, you scoundrels!"
+  },
+  {
+    "start": 54.6,
+    "end": 57.400000000000006,
+    "text": " Am I a temple bell or is it just anyone who comes and rings it?"
+  }
+]

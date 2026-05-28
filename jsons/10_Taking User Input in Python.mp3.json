@@ -1,0 +1,2588 @@
+{
+  "chunks": [
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 0.0,
+      "end": 3.6,
+      "text": " In 100 days of code, you guys have made a lot of noise."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 3.6,
+      "end": 6.72,
+      "text": " Everyone's tempo is very high."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 6.72,
+      "end": 10.96,
+      "text": " So today I'm going to tell you how we can take user input."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 10.96,
+      "end": 15.56,
+      "text": " If you interact with a program and then it responds,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 15.56,
+      "end": 17.2,
+      "text": " then you'll have a lot of fun."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 17.2,
+      "end": 20.2,
+      "text": " Do you know why games are so addictive?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 20.2,
+      "end": 22.48,
+      "text": " Because whatever input they're giving to the computer,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 22.48,
+      "end": 26.080000000000002,
+      "text": " the computer actually responds to it according to their inputs."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 26.080000000000002,
+      "end": 28.16,
+      "text": " And then they really like this thing that"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 28.16,
+      "end": 31.4,
+      "text": " we're giving input and the computer is responding."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 31.4,
+      "end": 34.56,
+      "text": " You can give this kind of input to your Python programs."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 34.56,
+      "end": 36.92,
+      "text": " I'll tell you how this thing is done."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 36.92,
+      "end": 40.0,
+      "text": " How Python program is given input from your keyboard."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 40.0,
+      "end": 43.0,
+      "text": " Let's go to the computer screen and let's get started."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 52.519999999999996,
+      "end": 55.92,
+      "text": " The user input in Python programming is taken"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 55.92,
+      "end": 57.519999999999996,
+      "text": " with the help of input function."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 57.52,
+      "end": 60.080000000000005,
+      "text": " Now, the input function in Python programming"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 60.080000000000005,
+      "end": 62.6,
+      "text": " takes a string prompt from you."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 62.6,
+      "end": 66.4,
+      "text": " That is, it asks you what input you want to give."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 66.4,
+      "end": 67.92,
+      "text": " You can put a message in it."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 67.92,
+      "end": 71.16,
+      "text": " I'll show you exactly how these things work."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 71.16,
+      "end": 72.56,
+      "text": " Let's zoom out a little."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 72.56,
+      "end": 74.24000000000001,
+      "text": " Let's zoom out a little."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 74.24000000000001,
+      "end": 76.52000000000001,
+      "text": " Okay, I zoomed in a little too much."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 76.52000000000001,
+      "end": 79.44,
+      "text": " Okay, so I zoom out a little."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 79.44,
+      "end": 83.52000000000001,
+      "text": " I zoom out a little so that it looks a little and it's fun."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 83.52000000000001,
+      "end": 84.76,
+      "text": " So it's a very simple thing."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 84.76,
+      "end": 88.32000000000001,
+      "text": " To get user input, we use the input function."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 88.32000000000001,
+      "end": 89.28,
+      "text": " What is input function?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 89.28,
+      "end": 90.88000000000001,
+      "text": " It's a very simple thing."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 90.88000000000001,
+      "end": 93.2,
+      "text": " What you have to do is,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 93.2,
+      "end": 94.52000000000001,
+      "text": " a variable is equal to input."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 94.52000000000001,
+      "end": 95.84,
+      "text": " You have to do something like this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 95.84,
+      "end": 97.60000000000001,
+      "text": " In Python, we can take user input"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 97.60000000000001,
+      "end": 99.2,
+      "text": " directly using input function."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 99.2,
+      "end": 103.48,
+      "text": " The input function gives a return value as string character."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 103.48,
+      "end": 105.84,
+      "text": " Hence, we have to pass that into the variable."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 105.84,
+      "end": 107.48,
+      "text": " Now, I'll tell you what that means."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 107.48,
+      "end": 108.44,
+      "text": " Look, it's very simple."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 108.44,
+      "end": 111.84,
+      "text": " If I write A is equal to input, that's all I have to write."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 111.84,
+      "end": 113.44,
+      "text": " And then I write print A."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 113.44,
+      "end": 116.32,
+      "text": " So we have made this the most basic program"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 116.32,
+      "end": 117.75999999999999,
+      "text": " to get input in Python."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 117.75999999999999,
+      "end": 121.08,
+      "text": " So if I write Harry here and hit enter,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 121.08,
+      "end": 122.88,
+      "text": " it will print Harry."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 122.88,
+      "end": 124.2,
+      "text": " I could have done something like this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 124.2,
+      "end": 125.48,
+      "text": " I could have said,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 125.48,
+      "end": 128.56,
+      "text": " my name is,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 128.56,
+      "end": 130.4,
+      "text": " and then I'll write A."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 130.4,
+      "end": 132.6,
+      "text": " So my name is Harry will be printed"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 132.6,
+      "end": 135.0,
+      "text": " because there's Harry in A."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 135.0,
+      "end": 136.48,
+      "text": " So this was a very simple thing."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 136.48,
+      "end": 137.72,
+      "text": " And you guys understood."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 137.72,
+      "end": 139.52,
+      "text": " I'll write Harry here first."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 140.48,
+      "end": 142.12,
+      "text": " And then my name is Harry will be printed."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 142.16,
+      "end": 143.48000000000002,
+      "text": " This was a very simple thing."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 143.48000000000002,
+      "end": 144.28,
+      "text": " You understood it."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 144.28,
+      "end": 144.88,
+      "text": " It's great."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 144.88,
+      "end": 146.0,
+      "text": " It's a very good thing."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 146.0,
+      "end": 146.64000000000001,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 146.64000000000001,
+      "end": 147.8,
+      "text": " But what you can do is"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 147.8,
+      "end": 149.56,
+      "text": " you can also give a string in it."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 149.56,
+      "end": 151.4,
+      "text": " I can do something like this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 153.20000000000002,
+      "end": 155.72,
+      "text": " Enter your name,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 155.72,
+      "end": 157.04,
+      "text": " and then give a colon space."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 157.04,
+      "end": 158.6,
+      "text": " So here you'll have to write enter your name."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 158.6,
+      "end": 161.56,
+      "text": " That is, the string I have put in the input"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 161.56,
+      "end": 164.04000000000002,
+      "text": " will literally show me this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 164.04000000000002,
+      "end": 166.72,
+      "text": " And if I write Harry here,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 166.72,
+      "end": 169.44,
+      "text": " then my name is Harry will be shown like this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 169.44,
+      "end": 172.4,
+      "text": " This means that the input function"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 172.4,
+      "end": 174.72,
+      "text": " assigns the string to a variable"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 174.72,
+      "end": 176.35999999999999,
+      "text": " which the user inputs."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 176.35999999999999,
+      "end": 177.92,
+      "text": " Like if I write A is equal to input,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 177.92,
+      "end": 180.04,
+      "text": " then the string will come in A,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 180.04,
+      "end": 181.44,
+      "text": " which the user is going to write."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 181.44,
+      "end": 183.48,
+      "text": " And your program waits"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 183.48,
+      "end": 185.4,
+      "text": " if you have not given any string"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 185.4,
+      "end": 187.52,
+      "text": " after input,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 187.52,
+      "end": 189.0,
+      "text": " and if you have given a string,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 189.0,
+      "end": 190.48,
+      "text": " then that string is shown."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 190.48,
+      "end": 192.24,
+      "text": " And after that, the program waits for you"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 192.24,
+      "end": 194.2,
+      "text": " to input something from your keyboard."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 194.2,
+      "end": 194.8,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 194.8,
+      "end": 196.2,
+      "text": " This is the input function."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 196.2,
+      "end": 197.88,
+      "text": " You wrote my name is A,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 197.88,
+      "end": 199.16,
+      "text": " so my name is Harry will be shown here."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 199.16,
+      "end": 200.72,
+      "text": " So far, everything is clear."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 200.72,
+      "end": 201.64,
+      "text": " Now what happens is that"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 201.64,
+      "end": 202.96,
+      "text": " a lot of people make a program."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 202.96,
+      "end": 204.12,
+      "text": " I mean, in Python programming,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 204.12,
+      "end": 205.92,
+      "text": " I would say that this is the biggest doubt"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 205.92,
+      "end": 206.48,
+      "text": " that people have."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 206.48,
+      "end": 208.68,
+      "text": " One of the biggest doubts"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 208.68,
+      "end": 211.8,
+      "text": " that people come up with."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 211.8,
+      "end": 213.2,
+      "text": " Now I'll tell you what happens."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 213.2,
+      "end": 215.6,
+      "text": " People say that B is equal to input."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 215.6,
+      "end": 218.4,
+      "text": " Enter first number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 218.4,
+      "end": 220.8,
+      "text": " Okay, I'll make it X."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 220.8,
+      "end": 223.76,
+      "text": " Okay, I'll make it Y."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 223.76,
+      "end": 226.35999999999999,
+      "text": " And here I will write input second number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 226.35999999999999,
+      "end": 228.88,
+      "text": " Okay, so the first number will come in X."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 228.92,
+      "end": 230.4,
+      "text": " The second number will come in Y."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 230.4,
+      "end": 232.4,
+      "text": " Now you print X plus Y."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 232.4,
+      "end": 233.44,
+      "text": " And I also got a comment."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 233.44,
+      "end": 234.68,
+      "text": " I don't know whose comment it was."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 234.68,
+      "end": 235.84,
+      "text": " But I got this comment"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 235.84,
+      "end": 237.24,
+      "text": " with this problem."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 237.24,
+      "end": 238.79999999999998,
+      "text": " Now I'll tell you what it was."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 238.79999999999998,
+      "end": 241.4,
+      "text": " Now see, if you print the first number 10,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 241.4,
+      "end": 243.68,
+      "text": " and if you print the second number 3,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 243.68,
+      "end": 244.84,
+      "text": " I mean, I print 100,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 244.84,
+      "end": 245.72,
+      "text": " the first number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 245.72,
+      "end": 246.92,
+      "text": " In fact, the one above is running."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 246.92,
+      "end": 248.32,
+      "text": " So now I write Harry."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 248.32,
+      "end": 249.4,
+      "text": " Now he said, give me the first number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 249.4,
+      "end": 250.16,
+      "text": " I gave 12."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 250.16,
+      "end": 251.4,
+      "text": " I gave the second number 100."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 251.4,
+      "end": 252.84,
+      "text": " What should come?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 252.84,
+      "end": 253.84,
+      "text": " 112 should come."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 253.84,
+      "end": 255.92,
+      "text": " 100 and 12 are 112."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 255.92,
+      "end": 256.96,
+      "text": " But no."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 256.96,
+      "end": 258.15999999999997,
+      "text": " 12 is 100."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 258.16,
+      "end": 259.6,
+      "text": " Now you will say, what is going on?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 259.6,
+      "end": 260.56,
+      "text": " Python is broken."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 260.56,
+      "end": 261.92,
+      "text": " Or it's a failure."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 261.92,
+      "end": 263.72,
+      "text": " Many people say such things."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 263.72,
+      "end": 264.8,
+      "text": " My Python is bad."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 264.8,
+      "end": 265.8,
+      "text": " They bring doubts like this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 265.8,
+      "end": 267.20000000000005,
+      "text": " No, brother."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 267.20000000000005,
+      "end": 270.24,
+      "text": " But first make your own mistake."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 270.24,
+      "end": 272.08000000000004,
+      "text": " I mean, what is my Python bad?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 272.08000000000004,
+      "end": 273.0,
+      "text": " My computer is bad."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 273.0,
+      "end": 274.36,
+      "text": " People start talking like this"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 274.36,
+      "end": 276.0,
+      "text": " when they have doubts in programming."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 276.0,
+      "end": 277.72,
+      "text": " Yes, things can be bad."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 277.72,
+      "end": 279.84000000000003,
+      "text": " But you understand, right?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 279.84000000000003,
+      "end": 282.16,
+      "text": " Now I'll tell you what's happening here."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 282.16,
+      "end": 283.92,
+      "text": " When we wrote X is equal to input"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 283.92,
+      "end": 285.48,
+      "text": " enter first number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 285.48,
+      "end": 286.08000000000004,
+      "text": " So what happens?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 286.08,
+      "end": 287.71999999999997,
+      "text": " Whatever we input in X"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 287.71999999999997,
+      "end": 288.56,
+      "text": " that comes."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 288.56,
+      "end": 289.15999999999997,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 289.15999999999997,
+      "end": 290.35999999999996,
+      "text": " But there is a rule for this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 290.35999999999996,
+      "end": 291.64,
+      "text": " What is that rule?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 291.64,
+      "end": 293.71999999999997,
+      "text": " The rule is that whatever comes in X"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 293.71999999999997,
+      "end": 295.52,
+      "text": " it will come as a string."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 295.52,
+      "end": 297.52,
+      "text": " That is, if you have also input a number,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 297.52,
+      "end": 298.96,
+      "text": " then Python's input function"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 298.96,
+      "end": 300.36,
+      "text": " is not intelligent enough"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 300.36,
+      "end": 302.76,
+      "text": " that it will detect your number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 302.76,
+      "end": 304.08,
+      "text": " Brother, you have put a number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 304.08,
+      "end": 306.0,
+      "text": " So I don't take it as a string."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 306.0,
+      "end": 307.47999999999996,
+      "text": " I'll take it as a number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 307.47999999999996,
+      "end": 308.2,
+      "text": " No."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 308.2,
+      "end": 309.52,
+      "text": " Python's input function says,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 309.52,
+      "end": 312.12,
+      "text": " whatever you enter,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 312.12,
+      "end": 314.71999999999997,
+      "text": " I'll take it as a string."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 314.72,
+      "end": 317.52000000000004,
+      "text": " Now, if you are entering a number,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 317.52000000000004,
+      "end": 319.28000000000003,
+      "text": " then you can typecast it in int."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 319.28000000000003,
+      "end": 320.8,
+      "text": " We had read typecasting."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 320.8,
+      "end": 323.64000000000004,
+      "text": " Convert it from one data type to another."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 323.64000000000004,
+      "end": 325.20000000000005,
+      "text": " So X will be a string,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 325.20000000000005,
+      "end": 326.12,
+      "text": " Y will be a string."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 326.12,
+      "end": 328.08000000000004,
+      "text": " And when a string is added in Python,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 328.08000000000004,
+      "end": 329.32000000000005,
+      "text": " we haven't read the string yet,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 329.32000000000005,
+      "end": 330.04,
+      "text": " but I'll tell you."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 330.04,
+      "end": 333.72,
+      "text": " When I am doing X plus Y as a string in a string,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 333.72,
+      "end": 336.12,
+      "text": " then Python literally joins those two strings."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 336.12,
+      "end": 337.76000000000005,
+      "text": " It concatenates."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 337.76000000000005,
+      "end": 340.04,
+      "text": " That is, if we add 12 and 100,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 340.04,
+      "end": 340.88000000000005,
+      "text": " if someone asks,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 340.88000000000005,
+      "end": 343.28000000000003,
+      "text": " what will happen if we add 12 and 100?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 343.28,
+      "end": 344.76,
+      "text": " Look, brother, if there is an integer,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 344.76,
+      "end": 346.28,
+      "text": " then 112 will come."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 346.28,
+      "end": 348.2,
+      "text": " Even a fourth-grade kid knows this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 348.2,
+      "end": 349.08,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 349.08,
+      "end": 350.84,
+      "text": " And if a fourth-grade kid is watching,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 350.84,
+      "end": 352.03999999999996,
+      "text": " comment now."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 352.03999999999996,
+      "end": 353.67999999999995,
+      "text": " And if this is a string,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 353.67999999999995,
+      "end": 355.52,
+      "text": " 12 and 100,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 355.52,
+      "end": 356.52,
+      "text": " then what will happen?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 356.52,
+      "end": 358.59999999999997,
+      "text": " 12100."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 358.59999999999997,
+      "end": 359.71999999999997,
+      "text": " Something will print like this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 359.71999999999997,
+      "end": 361.96,
+      "text": " That is, these strings will be concatenated."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 361.96,
+      "end": 363.4,
+      "text": " If we add it in Harry,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 363.4,
+      "end": 364.76,
+      "text": " if we have Lovish,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 364.76,
+      "end": 365.84,
+      "text": " then Harry Lovish."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 365.84,
+      "end": 366.84,
+      "text": " It will be like this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 366.84,
+      "end": 367.35999999999996,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 367.35999999999996,
+      "end": 368.79999999999995,
+      "text": " If we add Rohan in Harry,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 368.79999999999995,
+      "end": 369.71999999999997,
+      "text": " Harry Rohan."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 369.71999999999997,
+      "end": 370.32,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 370.32,
+      "end": 372.55999999999995,
+      "text": " It will be made like this as a string."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 372.56,
+      "end": 373.88,
+      "text": " Now, Harry is not a number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 373.88,
+      "end": 374.84,
+      "text": " Rohan is not a number"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 374.84,
+      "end": 376.24,
+      "text": " that a new number will be added."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 376.24,
+      "end": 376.84,
+      "text": " No."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 376.84,
+      "end": 377.36,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 377.36,
+      "end": 378.48,
+      "text": " So, by doing x plus y,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 378.48,
+      "end": 381.24,
+      "text": " it is natural that we get 12100 here."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 381.24,
+      "end": 381.88,
+      "text": " What is it?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 381.88,
+      "end": 383.24,
+      "text": " It is natural."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 383.24,
+      "end": 384.4,
+      "text": " Now, you guys see here"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 384.4,
+      "end": 387.2,
+      "text": " that if I want"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 387.2,
+      "end": 389.04,
+      "text": " to take 112,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 389.04,
+      "end": 390.44,
+      "text": " then I will print it like this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 390.44,
+      "end": 392.2,
+      "text": " I will say, brother, look,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 392.2,
+      "end": 395.52,
+      "text": " x but as an integer."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 395.52,
+      "end": 398.16,
+      "text": " y but as an integer."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 398.16,
+      "end": 399.68,
+      "text": " And join these two."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 399.68,
+      "end": 400.04,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 400.04,
+      "end": 402.12,
+      "text": " Now, I will run this program."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 402.12,
+      "end": 403.64,
+      "text": " First, it will ask me the name."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 403.64,
+      "end": 405.32,
+      "text": " I wrote Harry."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 405.32,
+      "end": 407.4,
+      "text": " I put 45 in the first number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 407.4,
+      "end": 408.36,
+      "text": " And in the second number,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 408.36,
+      "end": 409.72,
+      "text": " I put 8."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 409.72,
+      "end": 410.8,
+      "text": " It will be 53."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 410.8,
+      "end": 411.36,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 411.36,
+      "end": 412.52,
+      "text": " And this,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 412.52,
+      "end": 414.24,
+      "text": " which I did print x plus y,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 414.24,
+      "end": 415.52,
+      "text": " it is 458."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 415.52,
+      "end": 417.64,
+      "text": " It kept 8 equal to 45."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 417.64,
+      "end": 418.16,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 418.16,
+      "end": 419.36,
+      "text": " So, this is concatenation."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 419.36,
+      "end": 422.0,
+      "text": " And this is actual arithmetic operation"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 422.0,
+      "end": 423.56,
+      "text": " between two integers."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 423.56,
+      "end": 425.24,
+      "text": " So, arithmetic operation will happen"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 425.24,
+      "end": 426.44,
+      "text": " when both the integers are there."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 426.44,
+      "end": 427.84000000000003,
+      "text": " And here, both the integers,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 427.84000000000003,
+      "end": 430.0,
+      "text": " you can see x and y,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 430.0,
+      "end": 431.88,
+      "text": " both the integers were not there."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 431.88,
+      "end": 434.64,
+      "text": " And here, we made them integers."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 434.64,
+      "end": 436.32,
+      "text": " Now, I will tell you one more case."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 436.32,
+      "end": 437.56,
+      "text": " And I will tell you the solution"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 437.56,
+      "end": 439.2,
+      "text": " in this course,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 439.2,
+      "end": 441.0,
+      "text": " 100 days of code."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 441.0,
+      "end": 442.71999999999997,
+      "text": " But I will not tell you the solution."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 442.71999999999997,
+      "end": 443.71999999999997,
+      "text": " And I will give you a hint."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 443.71999999999997,
+      "end": 444.8,
+      "text": " If anyone wants to see,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 444.8,
+      "end": 445.8,
+      "text": " they can see."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 445.8,
+      "end": 447.8,
+      "text": " Assume that I gave 89 in the first number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 447.8,
+      "end": 449.32,
+      "text": " And I gave Harry in the second number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 449.32,
+      "end": 450.2,
+      "text": " You will say, wait a minute."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 450.2,
+      "end": 451.24,
+      "text": " Harry is not a number."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 451.24,
+      "end": 452.24,
+      "text": " I just gave it, brother."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 452.24,
+      "end": 453.28,
+      "text": " It's my wish."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 453.28,
+      "end": 454.44,
+      "text": " It happens, some people"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 454.44,
+      "end": 456.0,
+      "text": " are made to break things."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 456.0,
+      "end": 457.08,
+      "text": " They break things."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 457.08,
+      "end": 458.32,
+      "text": " They spoil things."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 458.32,
+      "end": 458.92,
+      "text": " Whatever it is,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 458.92,
+      "end": 460.15999999999997,
+      "text": " whatever thing comes in their hands,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 460.15999999999997,
+      "end": 461.32,
+      "text": " phone comes in their hands,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 461.32,
+      "end": 462.32,
+      "text": " they leave it and drop it."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 462.32,
+      "end": 464.15999999999997,
+      "text": " If it breaks, they blame the manufacturer."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 464.15999999999997,
+      "end": 465.15999999999997,
+      "text": " That it was not made like this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 465.15999999999997,
+      "end": 466.88,
+      "text": " I mean, it should not break even if it falls."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 466.88,
+      "end": 467.88,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 467.88,
+      "end": 468.88,
+      "text": " So, I will hit enter."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 468.88,
+      "end": 469.88,
+      "text": " So, look here,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 469.88,
+      "end": 470.88,
+      "text": " it came in red color."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 470.88,
+      "end": 472.2,
+      "text": " This is called an error in Python."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 472.2,
+      "end": 473.2,
+      "text": " Python is saying,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 473.2,
+      "end": 474.88,
+      "text": " I have done it with my hands."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 474.88,
+      "end": 476.32,
+      "text": " What did Python do?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 476.32,
+      "end": 477.32,
+      "text": " It made its hands stand."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 477.32,
+      "end": 478.32,
+      "text": " Python said,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 478.32,
+      "end": 479.32,
+      "text": " I can't do it."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 479.32,
+      "end": 480.32,
+      "text": " It's mine now."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 480.32,
+      "end": 481.32,
+      "text": " Now, you see."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 481.32,
+      "end": 482.32,
+      "text": " Python means,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 482.32,
+      "end": 484.32,
+      "text": " it fell down."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 484.32,
+      "end": 485.32,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 485.32,
+      "end": 486.32,
+      "text": " Python died."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 486.32,
+      "end": 487.32,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 487.32,
+      "end": 488.32,
+      "text": " Python said,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 488.32,
+      "end": 489.32,
+      "text": " I can't do it now."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 489.32,
+      "end": 490.32,
+      "text": " Now, you see."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 490.32,
+      "end": 491.32,
+      "text": " It's not my fault."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 491.32,
+      "end": 492.32,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 492.32,
+      "end": 493.32,
+      "text": " Consider it like this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 493.32,
+      "end": 494.32,
+      "text": " So, here,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 494.32,
+      "end": 495.32,
+      "text": " most recent call,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 495.32,
+      "end": 497.32,
+      "text": " file main.py line 8 in module,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 497.32,
+      "end": 498.32,
+      "text": " it is saying,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 498.32,
+      "end": 500.32,
+      "text": " I have converted x to int."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 500.32,
+      "end": 502.32,
+      "text": " How can I convert Harry to int?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 502.32,
+      "end": 503.32,
+      "text": " What does it mean?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 503.32,
+      "end": 504.32,
+      "text": " It means,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 504.32,
+      "end": 505.32,
+      "text": " Python has gone mad."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 505.32,
+      "end": 506.32,
+      "text": " It has gone mad."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 506.32,
+      "end": 507.32,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 507.32,
+      "end": 508.32,
+      "text": " It has fallen to the ground."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 508.32,
+      "end": 509.32,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 509.32,
+      "end": 510.32,
+      "text": " This happened."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 510.32,
+      "end": 511.32,
+      "text": " So, here, Python is saying,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 511.32,
+      "end": 512.3199999999999,
+      "text": " this is a value error."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 512.3199999999999,
+      "end": 513.3199999999999,
+      "text": " It is not that it just falls."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 513.3199999999999,
+      "end": 514.3199999999999,
+      "text": " It tells us,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 514.3199999999999,
+      "end": 515.3199999999999,
+      "text": " what is the problem?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 515.3199999999999,
+      "end": 516.3199999999999,
+      "text": " Why did I fall?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 516.3199999999999,
+      "end": 517.3199999999999,
+      "text": " So, Python is saying,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 517.3199999999999,
+      "end": 518.3199999999999,
+      "text": " this is a value error."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 518.3199999999999,
+      "end": 519.3199999999999,
+      "text": " Inventor is saying,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 519.32,
+      "end": 520.32,
+      "text": " this is a value error."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 520.32,
+      "end": 521.32,
+      "text": " You have given invalid literal"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 521.32,
+      "end": 522.32,
+      "text": " in the integer."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 522.32,
+      "end": 523.32,
+      "text": " In the integer,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 523.32,
+      "end": 524.32,
+      "text": " you should have given a string"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 524.32,
+      "end": 525.32,
+      "text": " in the int function,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 525.32,
+      "end": 526.32,
+      "text": " which I could have converted"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 526.32,
+      "end": 527.32,
+      "text": " to integer."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 527.32,
+      "end": 528.32,
+      "text": " What did Harry give me?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 528.32,
+      "end": 530.32,
+      "text": " So, this error came in Python."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 530.32,
+      "end": 531.32,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 531.32,
+      "end": 532.32,
+      "text": " We can also display a text"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 532.32,
+      "end": 533.32,
+      "text": " using input function."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 533.32,
+      "end": 534.32,
+      "text": " This will make input function."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 534.32,
+      "end": 535.32,
+      "text": " We have seen this."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 535.32,
+      "end": 536.32,
+      "text": " In this way,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 536.32,
+      "end": 538.32,
+      "text": " we can display text."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 538.32,
+      "end": 539.32,
+      "text": " And here,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 539.32,
+      "end": 540.32,
+      "text": " we could have converted it"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 540.32,
+      "end": 541.32,
+      "text": " to float as well."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 541.32,
+      "end": 542.32,
+      "text": " So,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 542.32,
+      "end": 543.32,
+      "text": " whenever you are adding two numbers"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 543.32,
+      "end": 544.32,
+      "text": " or doing any arithmetic operation"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 544.32,
+      "end": 545.32,
+      "text": " between them,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 545.32,
+      "end": 547.32,
+      "text": " then what you should do is,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 547.32,
+      "end": 548.32,
+      "text": " you should convert them"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 548.32,
+      "end": 549.32,
+      "text": " to any number you are expecting"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 549.32,
+      "end": 551.32,
+      "text": " in the integer or float."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 551.32,
+      "end": 552.32,
+      "text": " So, in this way,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 552.32,
+      "end": 553.32,
+      "text": " we can take input"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 553.32,
+      "end": 555.32,
+      "text": " in Python programming."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 555.32,
+      "end": 556.32,
+      "text": " And now,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 556.32,
+      "end": 557.32,
+      "text": " I want you to make a program"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 557.32,
+      "end": 559.32,
+      "text": " to carry out an arithmetic operation."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 559.32,
+      "end": 560.32,
+      "text": " Do you remember"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 560.32,
+      "end": 561.32,
+      "text": " what we did in exercise 1?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 561.32,
+      "end": 563.32,
+      "text": " Plus, minus, times, divide,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 563.32,
+      "end": 564.32,
+      "text": " exponential,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 564.32,
+      "end": 565.32,
+      "text": " I told you all the operators."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 565.32,
+      "end": 566.32,
+      "text": " I want you to apply"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 566.32,
+      "end": 568.32,
+      "text": " all the operators here."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 568.32,
+      "end": 569.32,
+      "text": " If we are taking as a string,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 569.32,
+      "end": 570.32,
+      "text": " that is,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 570.32,
+      "end": 571.32,
+      "text": " if we are applying them"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 571.32,
+      "end": 572.32,
+      "text": " directly in x and y,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 572.32,
+      "end": 573.32,
+      "text": " then what is happening?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 573.32,
+      "end": 574.32,
+      "text": " And if we are doing this,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 574.32,
+      "end": 576.32,
+      "text": " then what is happening?"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 576.32,
+      "end": 578.32,
+      "text": " I want you to do this"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 578.32,
+      "end": 579.32,
+      "text": " and show me."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 579.32,
+      "end": 580.32,
+      "text": " So,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 580.32,
+      "end": 581.32,
+      "text": " that's all for this video."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 581.32,
+      "end": 582.32,
+      "text": " If you haven't accessed"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 582.32,
+      "end": 584.32,
+      "text": " the playlist of Python,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 584.32,
+      "end": 586.32,
+      "text": " then I would like you to access it."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 586.32,
+      "end": 587.32,
+      "text": " And click here to bookmark it."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 587.32,
+      "end": 589.32,
+      "text": " Click here to save it."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 589.32,
+      "end": 591.32,
+      "text": " That's all for this video, guys."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 591.32,
+      "end": 592.32,
+      "text": " Thank you so much, guys,"
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 592.32,
+      "end": 593.32,
+      "text": " for watching this video."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 593.32,
+      "end": 596.32,
+      "text": " And I will see you next time."
+    },
+    {
+      "number": "10",
+      "title": "Taking User Input in Python",
+      "start": 596.32,
+      "end": 615.32,
+      "text": " Outro Music."
+    }
+  ],
+  "text": " In 100 days of code, you guys have made a lot of noise. Everyone's tempo is very high. So today I'm going to tell you how we can take user input. If you interact with a program and then it responds, then you'll have a lot of fun. Do you know why games are so addictive? Because whatever input they're giving to the computer, the computer actually responds to it according to their inputs. And then they really like this thing that we're giving input and the computer is responding. You can give this kind of input to your Python programs. I'll tell you how this thing is done. How Python program is given input from your keyboard. Let's go to the computer screen and let's get started. The user input in Python programming is taken with the help of input function. Now, the input function in Python programming takes a string prompt from you. That is, it asks you what input you want to give. You can put a message in it. I'll show you exactly how these things work. Let's zoom out a little. Let's zoom out a little. Okay, I zoomed in a little too much. Okay, so I zoom out a little. I zoom out a little so that it looks a little and it's fun. So it's a very simple thing. To get user input, we use the input function. What is input function? It's a very simple thing. What you have to do is, a variable is equal to input. You have to do something like this. In Python, we can take user input directly using input function. The input function gives a return value as string character. Hence, we have to pass that into the variable. Now, I'll tell you what that means. Look, it's very simple. If I write A is equal to input, that's all I have to write. And then I write print A. So we have made this the most basic program to get input in Python. So if I write Harry here and hit enter, it will print Harry. I could have done something like this. I could have said, my name is, and then I'll write A. So my name is Harry will be printed because there's Harry in A. So this was a very simple thing. And you guys understood. I'll write Harry here first. And then my name is Harry will be printed. This was a very simple thing. You understood it. It's great. It's a very good thing. Okay. But what you can do is you can also give a string in it. I can do something like this. Enter your name, and then give a colon space. So here you'll have to write enter your name. That is, the string I have put in the input will literally show me this. And if I write Harry here, then my name is Harry will be shown like this. This means that the input function assigns the string to a variable which the user inputs. Like if I write A is equal to input, then the string will come in A, which the user is going to write. And your program waits if you have not given any string after input, and if you have given a string, then that string is shown. And after that, the program waits for you to input something from your keyboard. Okay. This is the input function. You wrote my name is A, so my name is Harry will be shown here. So far, everything is clear. Now what happens is that a lot of people make a program. I mean, in Python programming, I would say that this is the biggest doubt that people have. One of the biggest doubts that people come up with. Now I'll tell you what happens. People say that B is equal to input. Enter first number. Okay, I'll make it X. Okay, I'll make it Y. And here I will write input second number. Okay, so the first number will come in X. The second number will come in Y. Now you print X plus Y. And I also got a comment. I don't know whose comment it was. But I got this comment with this problem. Now I'll tell you what it was. Now see, if you print the first number 10, and if you print the second number 3, I mean, I print 100, the first number. In fact, the one above is running. So now I write Harry. Now he said, give me the first number. I gave 12. I gave the second number 100. What should come? 112 should come. 100 and 12 are 112. But no. 12 is 100. Now you will say, what is going on? Python is broken. Or it's a failure. Many people say such things. My Python is bad. They bring doubts like this. No, brother. But first make your own mistake. I mean, what is my Python bad? My computer is bad. People start talking like this when they have doubts in programming. Yes, things can be bad. But you understand, right? Now I'll tell you what's happening here. When we wrote X is equal to input enter first number. So what happens? Whatever we input in X that comes. Okay. But there is a rule for this. What is that rule? The rule is that whatever comes in X it will come as a string. That is, if you have also input a number, then Python's input function is not intelligent enough that it will detect your number. Brother, you have put a number. So I don't take it as a string. I'll take it as a number. No. Python's input function says, whatever you enter, I'll take it as a string. Now, if you are entering a number, then you can typecast it in int. We had read typecasting. Convert it from one data type to another. So X will be a string, Y will be a string. And when a string is added in Python, we haven't read the string yet, but I'll tell you. When I am doing X plus Y as a string in a string, then Python literally joins those two strings. It concatenates. That is, if we add 12 and 100, if someone asks, what will happen if we add 12 and 100? Look, brother, if there is an integer, then 112 will come. Even a fourth-grade kid knows this. Okay? And if a fourth-grade kid is watching, comment now. And if this is a string, 12 and 100, then what will happen? 12100. Something will print like this. That is, these strings will be concatenated. If we add it in Harry, if we have Lovish, then Harry Lovish. It will be like this. Okay? If we add Rohan in Harry, Harry Rohan. Okay? It will be made like this as a string. Now, Harry is not a number. Rohan is not a number that a new number will be added. No. Okay? So, by doing x plus y, it is natural that we get 12100 here. What is it? It is natural. Now, you guys see here that if I want to take 112, then I will print it like this. I will say, brother, look, x but as an integer. y but as an integer. And join these two. Okay? Now, I will run this program. First, it will ask me the name. I wrote Harry. I put 45 in the first number. And in the second number, I put 8. It will be 53. Okay? And this, which I did print x plus y, it is 458. It kept 8 equal to 45. Okay? So, this is concatenation. And this is actual arithmetic operation between two integers. So, arithmetic operation will happen when both the integers are there. And here, both the integers, you can see x and y, both the integers were not there. And here, we made them integers. Now, I will tell you one more case. And I will tell you the solution in this course, 100 days of code. But I will not tell you the solution. And I will give you a hint. If anyone wants to see, they can see. Assume that I gave 89 in the first number. And I gave Harry in the second number. You will say, wait a minute. Harry is not a number. I just gave it, brother. It's my wish. It happens, some people are made to break things. They break things. They spoil things. Whatever it is, whatever thing comes in their hands, phone comes in their hands, they leave it and drop it. If it breaks, they blame the manufacturer. That it was not made like this. I mean, it should not break even if it falls. Okay. So, I will hit enter. So, look here, it came in red color. This is called an error in Python. Python is saying, I have done it with my hands. What did Python do? It made its hands stand. Python said, I can't do it. It's mine now. Now, you see. Python means, it fell down. Okay. Python died. Okay. Python said, I can't do it now. Now, you see. It's not my fault. Okay. Consider it like this. So, here, most recent call, file main.py line 8 in module, it is saying, I have converted x to int. How can I convert Harry to int? What does it mean? It means, Python has gone mad. It has gone mad. Okay. It has fallen to the ground. Okay. This happened. So, here, Python is saying, this is a value error. It is not that it just falls. It tells us, what is the problem? Why did I fall? So, Python is saying, this is a value error. Inventor is saying, this is a value error. You have given invalid literal in the integer. In the integer, you should have given a string in the int function, which I could have converted to integer. What did Harry give me? So, this error came in Python. Okay. We can also display a text using input function. This will make input function. We have seen this. In this way, we can display text. And here, we could have converted it to float as well. So, whenever you are adding two numbers or doing any arithmetic operation between them, then what you should do is, you should convert them to any number you are expecting in the integer or float. So, in this way, we can take input in Python programming. And now, I want you to make a program to carry out an arithmetic operation. Do you remember what we did in exercise 1? Plus, minus, times, divide, exponential, I told you all the operators. I want you to apply all the operators here. If we are taking as a string, that is, if we are applying them directly in x and y, then what is happening? And if we are doing this, then what is happening? I want you to do this and show me. So, that's all for this video. If you haven't accessed the playlist of Python, then I would like you to access it. And click here to bookmark it. Click here to save it. That's all for this video, guys. Thank you so much, guys, for watching this video. And I will see you next time. Outro Music."
+}

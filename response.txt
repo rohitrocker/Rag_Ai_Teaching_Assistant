@@ -1,0 +1,7 @@
+So, you're looking to take a variable in Python. To do this, we need to use assignment operator (=) followed by the name of the variable and the value we want it to hold.
+
+For example, if we want to store the string "hello" in a variable named "greeting", we would write:
+
+`greeting = "hello"`
+
+This is done in Video 3: "Modules and Pip" at timestamp 295.44 seconds.

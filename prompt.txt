@@ -1,0 +1,8 @@
+ Iam teaching python in my python programming of course. Here are viedo subtitle chunks containing viedo title , viedo number , start time in sec,end time in sec,the text of that time.
+
+[{"title":"Variables and Data Types","number":"6","start":106.92,"end":110.08,"text":" how to make a variable in Python."},{"title":"Variables and Data Types","number":"6","start":238.44,"end":239.84,"text":" So see what is a variable?"},{"title":"Modules and Pip","number":"3","start":293.28,"end":295.44,"text":" how to grab modules."},{"title":"Taking User Input in Python","number":"10","start":172.4,"end":174.72,"text":" assigns the string to a variable"},{"title":"Exercise 1\uff1a Calculator using Python","number":"7","start":276.0,"end":278.0,"text":" You can make two numbers as a variable"}]
+----------------------------------
+"how to take variable"
+user asked this question realted to the viedo chunk , you  have to answerin a human way(dont mention the above format its just for you) where and how much
+content is taught where (in which viedo at what timestamp) and guide the user to go to that particular viedo.
+If user asks unrelated question,tell him you can only answer questions related to course

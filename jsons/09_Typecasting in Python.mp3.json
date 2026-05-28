@@ -1,0 +1,2308 @@
+{
+  "chunks": [
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Oh, what a thing, friends!"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 2.0,
+      "end": 6.76,
+      "text": " Even in day 9, 100 days of code consistency was 10G, huh?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 6.76,
+      "end": 9.6,
+      "text": " Today, I'll tell you about typecasting."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 9.6,
+      "end": 11.84,
+      "text": " This term sounds scary to hear,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 11.84,
+      "end": 13.040000000000001,
+      "text": " TYPECASTING."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 13.040000000000001,
+      "end": 15.48,
+      "text": " But I'll tell you that it's a very simple thing."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 15.48,
+      "end": 17.48,
+      "text": " Look, we made a string variable,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 17.48,
+      "end": 19.64,
+      "text": " and it has 27 written in it."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 19.64,
+      "end": 21.44,
+      "text": " We enclosed it in double quotes"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 21.44,
+      "end": 24.48,
+      "text": " because it was a string, so we put 27 in double quotes."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 24.48,
+      "end": 26.88,
+      "text": " But if we add it to 3,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 26.88,
+      "end": 29.44,
+      "text": " then it won't be 30 because it's a 27 string."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 29.44,
+      "end": 30.880000000000003,
+      "text": " And 3 is an integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 30.880000000000003,
+      "end": 32.72,
+      "text": " So if we want to tell Python"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 32.72,
+      "end": 36.2,
+      "text": " that the thing written in double quotes is a valid number,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 36.2,
+      "end": 40.36,
+      "text": " then we can typecast it to an integer by using int function."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 40.36,
+      "end": 44.160000000000004,
+      "text": " We'll see in detail how all these things work in this video."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 44.160000000000004,
+      "end": 47.120000000000005,
+      "text": " Let's go to the computer screen and let's get started."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 47.120000000000005,
+      "end": 56.44,
+      "text": " INTRO"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 56.44,
+      "end": 58.44,
+      "text": " Let's see about typecasting today."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 58.44,
+      "end": 59.879999999999995,
+      "text": " What is typecasting?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 59.879999999999995,
+      "end": 61.44,
+      "text": " Why is it important?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 61.44,
+      "end": 62.44,
+      "text": " I got a comment."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 62.44,
+      "end": 64.03999999999999,
+      "text": " I'll tell you what the comment was."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 64.03999999999999,
+      "end": 67.64,
+      "text": " The comment was that I did A plus B."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 67.64,
+      "end": 70.03999999999999,
+      "text": " The value of A was 1, the value of B was 2,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 70.03999999999999,
+      "end": 72.03999999999999,
+      "text": " and I got the result of A plus B as 12."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 72.03999999999999,
+      "end": 73.44,
+      "text": " So I understood."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 73.44,
+      "end": 74.92,
+      "text": " I got a smile on my face."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 74.92,
+      "end": 77.72,
+      "text": " I said, these things, these problems,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 77.72,
+      "end": 79.6,
+      "text": " Harry also used to have these problems once in a while."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 79.6,
+      "end": 80.75999999999999,
+      "text": " And he also used to think like this."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 80.75999999999999,
+      "end": 84.0,
+      "text": " And today he will tell you why you have these problems."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 84.0,
+      "end": 85.64,
+      "text": " Now see what happens."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 85.64,
+      "end": 87.72,
+      "text": " Suppose you wrote A is equal to 1."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 88.32,
+      "end": 89.92,
+      "text": " I'm telling you a genuine problem."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 89.92,
+      "end": 91.92,
+      "text": " Which Python developers know."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 91.92,
+      "end": 93.92,
+      "text": " And developers get frustrated."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 93.92,
+      "end": 97.72,
+      "text": " Now you said, I'll print A plus B."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 97.72,
+      "end": 100.72,
+      "text": " Now you'll say, why are you teaching kids?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 100.72,
+      "end": 103.52,
+      "text": " Why are you teaching kids that 1 plus 2 is 3?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 103.52,
+      "end": 106.52,
+      "text": " Why are you wasting time in this course?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 106.52,
+      "end": 109.32,
+      "text": " What did you think?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 109.32,
+      "end": 110.32,
+      "text": " That 13 will come?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 110.32,
+      "end": 111.32,
+      "text": " Sorry, 3 will come?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 111.32,
+      "end": 112.32,
+      "text": " 12 came."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 112.32,
+      "end": 113.92,
+      "text": " Now why did 12 come?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 113.92,
+      "end": 114.92,
+      "text": " I'll tell you."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 115.12,
+      "end": 116.52,
+      "text": " A is a string."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 116.52,
+      "end": 117.52,
+      "text": " B is a string."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 117.52,
+      "end": 122.72,
+      "text": " Python doesn't know that the content in your string is a number."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 122.72,
+      "end": 124.52,
+      "text": " When Python gets two strings,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 124.52,
+      "end": 126.12,
+      "text": " it keeps them equal to each other."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 126.12,
+      "end": 129.12,
+      "text": " If you wrote Harry and Bhai here,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 129.12,
+      "end": 131.52,
+      "text": " where would you write Harry and Bhai here?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 131.52,
+      "end": 133.12,
+      "text": " I'll show you."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 133.12,
+      "end": 134.92000000000002,
+      "text": " If you wrote Harry and Bhai,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 134.92000000000002,
+      "end": 138.32,
+      "text": " then wouldn't there be a number detection?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 138.32,
+      "end": 140.12,
+      "text": " Harry would have stuck it side by side."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 140.12,
+      "end": 142.12,
+      "text": " Because this is how string concatenation is."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 142.32,
+      "end": 143.52,
+      "text": " If you write 1 and 2,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 143.52,
+      "end": 145.32,
+      "text": " then it will also stick side by side."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 145.32,
+      "end": 146.32,
+      "text": " So what's the solution?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 146.32,
+      "end": 149.12,
+      "text": " This 1 is a string."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 149.12,
+      "end": 151.32,
+      "text": " This 2 is a string."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 151.32,
+      "end": 153.72,
+      "text": " Convert this into an integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 153.72,
+      "end": 155.72,
+      "text": " So I'll press Alt Shift and down arrow"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 155.72,
+      "end": 158.12,
+      "text": " and replicate both the lines."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 158.12,
+      "end": 159.12,
+      "text": " Okay?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 159.12,
+      "end": 160.32,
+      "text": " I wrote A is equal to 1."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 160.32,
+      "end": 162.12,
+      "text": " And here I wrote B is equal to 2."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 162.12,
+      "end": 164.12,
+      "text": " I don't need to comment on these two lines."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 164.12,
+      "end": 165.32,
+      "text": " Because A's value was a string."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 165.32,
+      "end": 167.92000000000002,
+      "text": " Then I made it 1 as number again."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 167.92000000000002,
+      "end": 169.72,
+      "text": " But for clarity, I'll comment it out."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 169.72,
+      "end": 171.52,
+      "text": " Control plus forward slash."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 171.52,
+      "end": 172.52,
+      "text": " This is a shortcut."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 172.52,
+      "end": 174.12,
+      "text": " People keep asking what is the shortcut?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 174.12,
+      "end": 175.92000000000002,
+      "text": " Control plus forward slash."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 175.92000000000002,
+      "end": 176.52,
+      "text": " Okay?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 176.52,
+      "end": 178.12,
+      "text": " If I use this shortcut in the future,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 178.12,
+      "end": 179.12,
+      "text": " then remember this."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 179.12,
+      "end": 179.72,
+      "text": " Okay?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 179.72,
+      "end": 181.52,
+      "text": " I'll come back again."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 181.52,
+      "end": 183.72,
+      "text": " And A1, B2."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 183.72,
+      "end": 184.32000000000002,
+      "text": " Okay?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 184.32000000000002,
+      "end": 185.52,
+      "text": " We'll run."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 185.52,
+      "end": 186.12,
+      "text": " 3 came."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 186.12,
+      "end": 187.92000000000002,
+      "text": " Because this time A was also a number."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 187.92000000000002,
+      "end": 189.12,
+      "text": " And B was also a number."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 189.12,
+      "end": 190.32000000000002,
+      "text": " Okay?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 190.32000000000002,
+      "end": 191.72,
+      "text": " Here, I'm getting a lot of complaints."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 191.72,
+      "end": 193.92000000000002,
+      "text": " It's not visible."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 193.92000000000002,
+      "end": 194.72,
+      "text": " Now it's visible."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 194.72,
+      "end": 195.12,
+      "text": " Okay?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 195.12,
+      "end": 196.32000000000002,
+      "text": " It's quite big now."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 196.32000000000002,
+      "end": 197.92000000000002,
+      "text": " A1, B2."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 197.92000000000002,
+      "end": 199.12,
+      "text": " So what is typecasting?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 199.12,
+      "end": 199.92000000000002,
+      "text": " I've written it here."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 199.92,
+      "end": 202.72,
+      "text": " The conversion of one data type"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 202.72,
+      "end": 205.32,
+      "text": " into the other data type is known as"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 205.32,
+      "end": 206.72,
+      "text": " typecasting in Python."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 206.72,
+      "end": 208.51999999999998,
+      "text": " Or it is also called type conversion."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 208.51999999999998,
+      "end": 211.72,
+      "text": " Python supports a lot of functions."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 211.72,
+      "end": 212.72,
+      "text": " I'm not talking about data types."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 212.72,
+      "end": 214.11999999999998,
+      "text": " I'm talking about functions."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 214.11999999999998,
+      "end": 219.32,
+      "text": " Int, str, ord, hex, oct, tuple, set, list, dict."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 219.32,
+      "end": 220.92,
+      "text": " These are all methods."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 220.92,
+      "end": 221.72,
+      "text": " These are methods."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 221.72,
+      "end": 222.72,
+      "text": " I'm not talking about data types."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 222.72,
+      "end": 223.72,
+      "text": " These are all data types."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 223.72,
+      "end": 226.92,
+      "text": " This is a function."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 226.92,
+      "end": 229.32,
+      "text": " Which helps any other data type"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 229.32,
+      "end": 231.32,
+      "text": " to convert."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 231.32,
+      "end": 233.32,
+      "text": " Now it will try to convert."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 233.32,
+      "end": 234.32,
+      "text": " Now you will say,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 234.32,
+      "end": 235.72,
+      "text": " convert Harry into an integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 235.72,
+      "end": 236.72,
+      "text": " How can I do that?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 236.72,
+      "end": 237.72,
+      "text": " No, no."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 237.72,
+      "end": 238.72,
+      "text": " How can I do that?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 238.72,
+      "end": 239.72,
+      "text": " How can I do that?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 239.72,
+      "end": 241.32,
+      "text": " Harry is written."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 241.32,
+      "end": 242.32,
+      "text": " It's a name."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 242.32,
+      "end": 244.72,
+      "text": " Convert it into an integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 244.72,
+      "end": 245.32,
+      "text": " How?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 245.32,
+      "end": 247.72,
+      "text": " Yes, if your string has 1 written in it,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 247.72,
+      "end": 249.32,
+      "text": " then it's understandable."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 249.32,
+      "end": 250.72,
+      "text": " That there is one string."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 250.72,
+      "end": 252.32,
+      "text": " Don't make 1 as a string."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 252.32,
+      "end": 253.32,
+      "text": " Make 1 as a number."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 253.32,
+      "end": 255.32,
+      "text": " I understand that."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 255.32,
+      "end": 256.32,
+      "text": " But what is this?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 256.32,
+      "end": 258.71999999999997,
+      "text": " That make Harry a number."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 258.72,
+      "end": 260.72,
+      "text": " So Python gets frustrated."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 260.72,
+      "end": 261.72,
+      "text": " It gets angry."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 261.72,
+      "end": 264.72,
+      "text": " And gets mad."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 264.72,
+      "end": 265.72,
+      "text": " It says,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 265.72,
+      "end": 268.72,
+      "text": " do you want to convert Harry into a number?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 268.72,
+      "end": 270.72,
+      "text": " You can't."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 270.72,
+      "end": 272.72,
+      "text": " There are two types of type castings."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 272.72,
+      "end": 273.72,
+      "text": " But before that,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 273.72,
+      "end": 274.72,
+      "text": " I'll tell you the basic type casting."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 274.72,
+      "end": 275.72,
+      "text": " Now suppose I say,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 275.72,
+      "end": 277.72,
+      "text": " I don't want to make A as a number."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 277.72,
+      "end": 278.72,
+      "text": " I want to work with this."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 278.72,
+      "end": 281.72,
+      "text": " I will have A string, B string."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 281.72,
+      "end": 282.72,
+      "text": " If I say, I say."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 282.72,
+      "end": 283.72,
+      "text": " Suppose something like this happens."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 283.72,
+      "end": 284.72,
+      "text": " So what would I do?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 284.72,
+      "end": 286.72,
+      "text": " I would use an int function."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 286.72,
+      "end": 287.72,
+      "text": " I would say,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 287.72,
+      "end": 292.72,
+      "text": " add int of A and int of B."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 292.72,
+      "end": 293.72,
+      "text": " So 12 doesn't come."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 293.72,
+      "end": 295.72,
+      "text": " Then it would convert it into an integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 295.72,
+      "end": 297.72,
+      "text": " Then it would convert B into an integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 297.72,
+      "end": 298.72,
+      "text": " Convert A into an integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 298.72,
+      "end": 299.72,
+      "text": " Convert B into an integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 299.72,
+      "end": 301.72,
+      "text": " 1 and 2 became a number."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 301.72,
+      "end": 302.72,
+      "text": " If you add both, 3 will come."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 302.72,
+      "end": 303.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 303.72,
+      "end": 304.72,
+      "text": " This is the thing."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 304.72,
+      "end": 306.72,
+      "text": " This is how 3 came here."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 306.72,
+      "end": 307.72,
+      "text": " If I don't even do this int A int B,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 307.72,
+      "end": 308.72,
+      "text": " then 1 and 2 were coming."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 308.72,
+      "end": 309.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 309.72,
+      "end": 311.72,
+      "text": " But what will happen if I make it 1 Harry?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 311.72,
+      "end": 313.72,
+      "text": " This time there will be an error."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 313.72,
+      "end": 314.72,
+      "text": " Python will say,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 314.72,
+      "end": 315.72,
+      "text": " I can convert 1 into a number."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 315.72,
+      "end": 317.72,
+      "text": " Because it is a valid integer entry."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 317.72,
+      "end": 319.72,
+      "text": " How can I convert 1 Harry?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 319.72,
+      "end": 320.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 320.72,
+      "end": 323.72,
+      "text": " So that's why Python gives an error."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 323.72,
+      "end": 325.72,
+      "text": " So your strings should be valid."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 325.72,
+      "end": 327.72,
+      "text": " If you are converting in any data type."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 327.72,
+      "end": 329.72,
+      "text": " Whichever data type you are converting,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 329.72,
+      "end": 331.72,
+      "text": " if you are converting in an integer,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 331.72,
+      "end": 334.72,
+      "text": " then it should be a valid integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 334.72,
+      "end": 336.72,
+      "text": " If you are converting in float,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 336.72,
+      "end": 337.72,
+      "text": " then it should be a valid float."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 337.72,
+      "end": 339.72,
+      "text": " Means it should be valid."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 339.72,
+      "end": 340.72,
+      "text": " Python should be able to do its work."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 340.72,
+      "end": 342.72,
+      "text": " It is not that you have given problems to Python."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 342.72,
+      "end": 343.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 343.72,
+      "end": 344.72,
+      "text": " Now see there are two types of typecasting."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 344.72,
+      "end": 346.72,
+      "text": " One is explicit and one is implicit."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 346.72,
+      "end": 348.72,
+      "text": " Explicit means I am doing it."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 348.72,
+      "end": 349.72,
+      "text": " I am doing it willingly."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 349.72,
+      "end": 350.72,
+      "text": " What is implicit?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 350.72,
+      "end": 352.72,
+      "text": " Python is doing it automatically."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 352.72,
+      "end": 353.72,
+      "text": " I will tell you about both."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 353.72,
+      "end": 355.72,
+      "text": " Explicit conversion means"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 355.72,
+      "end": 358.72,
+      "text": " I am doing conversion as a programmer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 358.72,
+      "end": 359.72,
+      "text": " I am telling Python interpreter,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 359.72,
+      "end": 361.72,
+      "text": " Hey Python interpreter,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 361.72,
+      "end": 364.72,
+      "text": " convert this data type into this data type."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 364.72,
+      "end": 365.72,
+      "text": " Like in this case, what did I do?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 365.72,
+      "end": 368.72,
+      "text": " I said convert the string into an integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 368.72,
+      "end": 369.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 369.72,
+      "end": 370.72,
+      "text": " I said this to Python."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 370.72,
+      "end": 371.72,
+      "text": " Python said,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 371.72,
+      "end": 373.72,
+      "text": " Okay, I will do it."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 373.72,
+      "end": 374.72,
+      "text": " And it converted one into an integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 374.72,
+      "end": 375.72,
+      "text": " Converted two into an integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 375.72,
+      "end": 377.72,
+      "text": " When we added both,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 377.72,
+      "end": 379.72,
+      "text": " then two and three came."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 379.72,
+      "end": 380.72,
+      "text": " Did it come or not?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 380.72,
+      "end": 381.72,
+      "text": " Absolutely came."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 381.72,
+      "end": 382.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 382.72,
+      "end": 384.72,
+      "text": " So what is explicit conversion?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 384.72,
+      "end": 385.72,
+      "text": " That we are doing it separately."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 385.72,
+      "end": 387.72,
+      "text": " What is implicit conversion?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 387.72,
+      "end": 388.72,
+      "text": " That Python is doing it itself."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 388.72,
+      "end": 389.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 389.72,
+      "end": 390.72,
+      "text": " I understood explicit conversion."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 390.72,
+      "end": 391.72,
+      "text": " What should I read so much?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 391.72,
+      "end": 393.72,
+      "text": " That the conversion of a data type into another data type"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 393.72,
+      "end": 394.72,
+      "text": " done by a developer or programmer"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 394.72,
+      "end": 395.72,
+      "text": " is interventional manually as per the requirement"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 395.72,
+      "end": 397.72,
+      "text": " is known as explicit type conversion."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 397.72,
+      "end": 399.72,
+      "text": " Time is wasted if I read like this."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 399.72,
+      "end": 401.72,
+      "text": " It can be done by a programmer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 401.72,
+      "end": 402.72,
+      "text": " Time is wasted if I read like this."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 402.72,
+      "end": 404.72,
+      "text": " It can be achieved with the help of Python's built-in function,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 404.72,
+      "end": 405.72,
+      "text": " conversion function,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 405.72,
+      "end": 407.72,
+      "text": " inflow hex, oct, string, etc."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 407.72,
+      "end": 408.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 408.72,
+      "end": 409.72,
+      "text": " You are watching in 1x."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 409.72,
+      "end": 410.72,
+      "text": " Don't worry about the video."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 410.72,
+      "end": 411.72,
+      "text": " Don't check."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 411.72,
+      "end": 412.72,
+      "text": " I gave an example here."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 412.72,
+      "end": 413.72,
+      "text": " I did the same thing as I did here."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 413.72,
+      "end": 415.72,
+      "text": " So you run it yourself."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 415.72,
+      "end": 416.72,
+      "text": " This is your work."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 416.72,
+      "end": 417.72,
+      "text": " This is your exercise."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 417.72,
+      "end": 418.72,
+      "text": " Do it."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 418.72,
+      "end": 419.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 419.72,
+      "end": 421.72,
+      "text": " Output, the sum of both the numbers is 22."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 421.72,
+      "end": 422.72,
+      "text": " This will be the output."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 422.72,
+      "end": 423.72,
+      "text": " See it."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 423.72,
+      "end": 424.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 424.72,
+      "end": 425.72,
+      "text": " Now let's talk about implicit type casting."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 425.72,
+      "end": 426.72,
+      "text": " Implicit type casting means that"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 426.72,
+      "end": 427.72,
+      "text": " Python says,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 427.72,
+      "end": 428.72,
+      "text": " Brother,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 428.72,
+      "end": 430.72,
+      "text": " you convert your data type."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 430.72,
+      "end": 431.72,
+      "text": " Let's do it."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 431.72,
+      "end": 432.72,
+      "text": " You won't do it."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 432.72,
+      "end": 433.72,
+      "text": " We will do it."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 433.72,
+      "end": 434.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 434.72,
+      "end": 435.72,
+      "text": " So I will tell you what happens."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 435.72,
+      "end": 437.72,
+      "text": " Data types in Python do not have the same level."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 437.72,
+      "end": 438.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 438.72,
+      "end": 439.72,
+      "text": " Ordering of data types is not the same in Python."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 439.72,
+      "end": 441.72,
+      "text": " Some of the data types have higher order"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 441.72,
+      "end": 442.72,
+      "text": " and some have lower order."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 442.72,
+      "end": 444.72,
+      "text": " So whenever we perform operations"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 444.72,
+      "end": 445.72,
+      "text": " in two variables,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 445.72,
+      "end": 447.72,
+      "text": " then a small type,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 447.72,
+      "end": 449.72,
+      "text": " which is a lower order variable,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 449.72,
+      "end": 450.72,
+      "text": " lower order variable,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 450.72,
+      "end": 451.72,
+      "text": " is converted to higher order."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 451.72,
+      "end": 452.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 452.72,
+      "end": 453.72,
+      "text": " So I do one thing here."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 453.72,
+      "end": 454.72,
+      "text": " I write a comment here."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 454.72,
+      "end": 455.72,
+      "text": " I write here,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 455.72,
+      "end": 458.72,
+      "text": " implicit type"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 460.72,
+      "end": 461.72,
+      "text": " casting."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 461.72,
+      "end": 462.72,
+      "text": " Now suppose I wrote"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 462.72,
+      "end": 465.72,
+      "text": " c is equal to 1.9"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 465.72,
+      "end": 467.72,
+      "text": " and I wrote d is equal to 8."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 467.72,
+      "end": 470.72,
+      "text": " So if I write here"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 470.72,
+      "end": 472.72,
+      "text": " print c plus d,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 472.72,
+      "end": 473.72,
+      "text": " then what will happen?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 473.72,
+      "end": 475.72,
+      "text": " c plus d will be converted"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 475.72,
+      "end": 476.72,
+      "text": " into an integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 476.72,
+      "end": 477.72,
+      "text": " So what I will get,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 477.72,
+      "end": 478.72,
+      "text": " sorry, in float,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 478.72,
+      "end": 479.72,
+      "text": " so the result I will get,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 479.72,
+      "end": 480.72,
+      "text": " will be in float."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 480.72,
+      "end": 481.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 481.72,
+      "end": 482.72,
+      "text": " I got 9.9."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 482.72,
+      "end": 485.72,
+      "text": " So my data type"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 485.72,
+      "end": 486.72,
+      "text": " will be in float."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 486.72,
+      "end": 487.72,
+      "text": " So here, as I have written,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 487.72,
+      "end": 488.72,
+      "text": " according to the level,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 488.72,
+      "end": 489.72,
+      "text": " one data type is converted."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 489.72,
+      "end": 492.72,
+      "text": " to another automatically"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 492.72,
+      "end": 493.72,
+      "text": " by Python interpreter."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 493.72,
+      "end": 495.72,
+      "text": " This is called implicit type conversion."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 495.72,
+      "end": 497.72,
+      "text": " Python converts a smaller data type"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 497.72,
+      "end": 498.72,
+      "text": " to a higher data type"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 498.72,
+      "end": 499.72,
+      "text": " to prevent data loss."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 499.72,
+      "end": 501.72,
+      "text": " If it would have converted c into an integer"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 501.72,
+      "end": 502.72,
+      "text": " and added it, then it would have been 9."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 502.72,
+      "end": 503.72,
+      "text": " But it didn't do that."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 503.72,
+      "end": 504.72,
+      "text": " It left c in float"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 504.72,
+      "end": 506.72,
+      "text": " and converted d into float."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 506.72,
+      "end": 507.72,
+      "text": " Float plus float."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 507.72,
+      "end": 509.72,
+      "text": " C plus d result is 9.9."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 509.72,
+      "end": 510.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 510.72,
+      "end": 512.72,
+      "text": " So this is how implicit type casting is done."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 512.72,
+      "end": 514.72,
+      "text": " I have also given an example in Python."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 514.72,
+      "end": 515.72,
+      "text": " It is a very similar example."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 515.72,
+      "end": 516.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 516.72,
+      "end": 517.72,
+      "text": " What was its type?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 517.72,
+      "end": 518.72,
+      "text": " Its type was"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 518.72,
+      "end": 519.72,
+      "text": " integer."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 519.72,
+      "end": 520.72,
+      "text": " Its type was float."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 520.72,
+      "end": 522.72,
+      "text": " The type of result will be float."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 522.72,
+      "end": 523.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 523.72,
+      "end": 524.72,
+      "text": " So you can also use the type function"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 524.72,
+      "end": 526.72,
+      "text": " to find out this thing."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 526.72,
+      "end": 528.72,
+      "text": " I hope you enjoyed day 9."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 528.72,
+      "end": 529.72,
+      "text": " If you didn't access the playlist,"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 529.72,
+      "end": 530.72,
+      "text": " then do it in Python."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 530.72,
+      "end": 531.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 531.72,
+      "end": 532.72,
+      "text": " Do it now."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 532.72,
+      "end": 533.72,
+      "text": " Go and bookmark this playlist."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 533.72,
+      "end": 535.72,
+      "text": " And save this playlist."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 535.72,
+      "end": 536.72,
+      "text": " Okay."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 536.72,
+      "end": 537.72,
+      "text": " Where will you click and save?"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 537.72,
+      "end": 538.72,
+      "text": " Click here and bookmark."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 538.72,
+      "end": 539.72,
+      "text": " Click here and save."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 539.72,
+      "end": 540.72,
+      "text": " See you in the next video."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 540.72,
+      "end": 541.72,
+      "text": " Thank you so much guys"
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 541.72,
+      "end": 543.72,
+      "text": " for watching this video."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 543.72,
+      "end": 545.72,
+      "text": " And I will see you in day 10."
+    },
+    {
+      "number": "9",
+      "title": "Typecasting in Python",
+      "start": 545.72,
+      "end": 563.72,
+      "text": " Outro"
+    }
+  ],
+  "text": " Oh, what a thing, friends! Even in day 9, 100 days of code consistency was 10G, huh? Today, I'll tell you about typecasting. This term sounds scary to hear, TYPECASTING. But I'll tell you that it's a very simple thing. Look, we made a string variable, and it has 27 written in it. We enclosed it in double quotes because it was a string, so we put 27 in double quotes. But if we add it to 3, then it won't be 30 because it's a 27 string. And 3 is an integer. So if we want to tell Python that the thing written in double quotes is a valid number, then we can typecast it to an integer by using int function. We'll see in detail how all these things work in this video. Let's go to the computer screen and let's get started. INTRO Let's see about typecasting today. What is typecasting? Why is it important? I got a comment. I'll tell you what the comment was. The comment was that I did A plus B. The value of A was 1, the value of B was 2, and I got the result of A plus B as 12. So I understood. I got a smile on my face. I said, these things, these problems, Harry also used to have these problems once in a while. And he also used to think like this. And today he will tell you why you have these problems. Now see what happens. Suppose you wrote A is equal to 1. I'm telling you a genuine problem. Which Python developers know. And developers get frustrated. Now you said, I'll print A plus B. Now you'll say, why are you teaching kids? Why are you teaching kids that 1 plus 2 is 3? Why are you wasting time in this course? What did you think? That 13 will come? Sorry, 3 will come? 12 came. Now why did 12 come? I'll tell you. A is a string. B is a string. Python doesn't know that the content in your string is a number. When Python gets two strings, it keeps them equal to each other. If you wrote Harry and Bhai here, where would you write Harry and Bhai here? I'll show you. If you wrote Harry and Bhai, then wouldn't there be a number detection? Harry would have stuck it side by side. Because this is how string concatenation is. If you write 1 and 2, then it will also stick side by side. So what's the solution? This 1 is a string. This 2 is a string. Convert this into an integer. So I'll press Alt Shift and down arrow and replicate both the lines. Okay? I wrote A is equal to 1. And here I wrote B is equal to 2. I don't need to comment on these two lines. Because A's value was a string. Then I made it 1 as number again. But for clarity, I'll comment it out. Control plus forward slash. This is a shortcut. People keep asking what is the shortcut? Control plus forward slash. Okay? If I use this shortcut in the future, then remember this. Okay? I'll come back again. And A1, B2. Okay? We'll run. 3 came. Because this time A was also a number. And B was also a number. Okay? Here, I'm getting a lot of complaints. It's not visible. Now it's visible. Okay? It's quite big now. A1, B2. So what is typecasting? I've written it here. The conversion of one data type into the other data type is known as typecasting in Python. Or it is also called type conversion. Python supports a lot of functions. I'm not talking about data types. I'm talking about functions. Int, str, ord, hex, oct, tuple, set, list, dict. These are all methods. These are methods. I'm not talking about data types. These are all data types. This is a function. Which helps any other data type to convert. Now it will try to convert. Now you will say, convert Harry into an integer. How can I do that? No, no. How can I do that? How can I do that? Harry is written. It's a name. Convert it into an integer. How? Yes, if your string has 1 written in it, then it's understandable. That there is one string. Don't make 1 as a string. Make 1 as a number. I understand that. But what is this? That make Harry a number. So Python gets frustrated. It gets angry. And gets mad. It says, do you want to convert Harry into a number? You can't. There are two types of type castings. But before that, I'll tell you the basic type casting. Now suppose I say, I don't want to make A as a number. I want to work with this. I will have A string, B string. If I say, I say. Suppose something like this happens. So what would I do? I would use an int function. I would say, add int of A and int of B. So 12 doesn't come. Then it would convert it into an integer. Then it would convert B into an integer. Convert A into an integer. Convert B into an integer. 1 and 2 became a number. If you add both, 3 will come. Okay. This is the thing. This is how 3 came here. If I don't even do this int A int B, then 1 and 2 were coming. Okay. But what will happen if I make it 1 Harry? This time there will be an error. Python will say, I can convert 1 into a number. Because it is a valid integer entry. How can I convert 1 Harry? Okay. So that's why Python gives an error. So your strings should be valid. If you are converting in any data type. Whichever data type you are converting, if you are converting in an integer, then it should be a valid integer. If you are converting in float, then it should be a valid float. Means it should be valid. Python should be able to do its work. It is not that you have given problems to Python. Okay. Now see there are two types of typecasting. One is explicit and one is implicit. Explicit means I am doing it. I am doing it willingly. What is implicit? Python is doing it automatically. I will tell you about both. Explicit conversion means I am doing conversion as a programmer. I am telling Python interpreter, Hey Python interpreter, convert this data type into this data type. Like in this case, what did I do? I said convert the string into an integer. Okay. I said this to Python. Python said, Okay, I will do it. And it converted one into an integer. Converted two into an integer. When we added both, then two and three came. Did it come or not? Absolutely came. Okay. So what is explicit conversion? That we are doing it separately. What is implicit conversion? That Python is doing it itself. Okay. I understood explicit conversion. What should I read so much? That the conversion of a data type into another data type done by a developer or programmer is interventional manually as per the requirement is known as explicit type conversion. Time is wasted if I read like this. It can be done by a programmer. Time is wasted if I read like this. It can be achieved with the help of Python's built-in function, conversion function, inflow hex, oct, string, etc. Okay. You are watching in 1x. Don't worry about the video. Don't check. I gave an example here. I did the same thing as I did here. So you run it yourself. This is your work. This is your exercise. Do it. Okay. Output, the sum of both the numbers is 22. This will be the output. See it. Okay. Now let's talk about implicit type casting. Implicit type casting means that Python says, Brother, you convert your data type. Let's do it. You won't do it. We will do it. Okay. So I will tell you what happens. Data types in Python do not have the same level. Okay. Ordering of data types is not the same in Python. Some of the data types have higher order and some have lower order. So whenever we perform operations in two variables, then a small type, which is a lower order variable, lower order variable, is converted to higher order. Okay. So I do one thing here. I write a comment here. I write here, implicit type casting. Now suppose I wrote c is equal to 1.9 and I wrote d is equal to 8. So if I write here print c plus d, then what will happen? c plus d will be converted into an integer. So what I will get, sorry, in float, so the result I will get, will be in float. Okay. I got 9.9. So my data type will be in float. So here, as I have written, according to the level, one data type is converted. to another automatically by Python interpreter. This is called implicit type conversion. Python converts a smaller data type to a higher data type to prevent data loss. If it would have converted c into an integer and added it, then it would have been 9. But it didn't do that. It left c in float and converted d into float. Float plus float. C plus d result is 9.9. Okay. So this is how implicit type casting is done. I have also given an example in Python. It is a very similar example. Okay. What was its type? Its type was integer. Its type was float. The type of result will be float. Okay. So you can also use the type function to find out this thing. I hope you enjoyed day 9. If you didn't access the playlist, then do it in Python. Okay. Do it now. Go and bookmark this playlist. And save this playlist. Okay. Where will you click and save? Click here and bookmark. Click here and save. See you in the next video. Thank you so much guys for watching this video. And I will see you in day 10. Outro"
+}
