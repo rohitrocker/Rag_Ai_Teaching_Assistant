@@ -1,0 +1,320 @@
+{
+    "chunks": [
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 0.0,
+            "end": 13.0,
+            "text": " Today we will know who has the power  In this video of 100 days of code you will get an exercise  And you have to solve this exercise today  And after that you have to give me the solution  We will know who will do it"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 13.0,
+            "end": 34.0,
+            "text": " If you have the power then solve it  Let's go to the computer screen and I will tell you what is the question you have to solve  So guys now I would like to tell you about operators  And why operators are important  And after that I will give you an exercise"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 34.0,
+            "end": 45.0,
+            "text": " So operators are simple things  We have studied in mathematics  If you are in class 5 then you should know what is an operator  If you are watching this video in 4th class then listen to what happens  Addition is 15 plus 7"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 45.0,
+            "end": 52.0,
+            "text": " Add two numbers  You took a toffee for 15 rupees  You took a toffee for 7 rupees  How much did the shopkeeper get?  21 rupees"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 52.0,
+            "end": 57.0,
+            "text": " No wrong answer  22 rupees  You don't have attention  Listen carefully  15 plus 7 is 22"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 57.0,
+            "end": 66.0,
+            "text": " Similarly 15 minus 7 is 9  Wrong answer  8 will be  So keep in mind  If I say 9 then your mind should be shocked"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 66.0,
+            "end": 79.0,
+            "text": " How did this person say 9 to 15 minus 7  So what is 15 minus 7?  You are saying what is he teaching  But I am trying to tell you that there are many operators in python  You know multiplication"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 79.0,
+            "end": 91.0,
+            "text": " If I write here print 5 plus 6  Then you will say that what is this circus going on here  I will close this  You will say what is this circus going on  5 plus 6 is 11"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 91.0,
+            "end": 104.0,
+            "text": " We know that  But what if I tell you  I will make it 15 so that I can do minus  You also do it  And I will restart and then divide"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 104.0,
+            "end": 113.0,
+            "text": " All these results will be printed  6, 5, 11, 15, minus 6, 9  And then how much is 15 multiplied by 6  You don't remember the table  90"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 113.0,
+            "end": 127.0,
+            "text": " Then how much is 15 divided by 6  2.5  So you know this thing well  What should I tell  But a new operator which may be new for some people"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 127.0,
+            "end": 139.0,
+            "text": " That is floor division operator  If I want to subtract 2.5 from 2.5 and take only 2  Then I will use floor division operator  One more operator modulo operator  And what does modulo operator do"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 139.0,
+            "end": 153.0,
+            "text": " Modulo operator does a simple thing  If I wrote 15 percent 6  So it means that if I divide 15 by 6  I will give you a very simple example  I do 5 percent 3"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 153.0,
+            "end": 162.0,
+            "text": " If I divide by 3 then 2 will remain  It is a simple thing  So it remains  If I divide 5 by 3 then 2 will remain  So 2 is remaining here"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 162.0,
+            "end": 171.0,
+            "text": " 15 divided by 6  15 divided by 6 is 2.5  But after dividing it by 2.5  0.5 will be over  And only 2 will remain"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 171.0,
+            "end": 181.0,
+            "text": " 15 divided by 6 is 2.5  15 multiplied by 6 is 90  So all these are operators  Which is addition, subtraction, multiplication  Now exponential operator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 181.0,
+            "end": 187.0,
+            "text": " Which I have shown wrong here  This is division actually  So I will correct it  This is division operator  And I will tell you what is exponential operator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 188.0,
+            "end": 197.0,
+            "text": " Print 5  If I print it star star 3  Now I print it  So it becomes 5 to the power 3  5 multiplied by 5 multiplied by 5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 197.0,
+            "end": 205.0,
+            "text": " I will fix it and come back  How did I write the division in exponential  Now some of you will say  You made a mistake while making apple  Oh man, it happens"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 205.0,
+            "end": 212.0,
+            "text": " Mistake is made by humans  Now see star star  I have written exponential here  And I have told you all these operators  Try it yourself"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 212.0,
+            "end": 220.0,
+            "text": " 5 star star 3 means  5 multiplied by 5 multiplied by 5  3 times  If I do 5 star star 4  5 multiplied by 5 multiplied by 5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 220.0,
+            "end": 228.0,
+            "text": " 4 times 5 will be multiplied  What will be in between  Simple thing  2 double star 4  If I do"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 228.0,
+            "end": 234.0,
+            "text": " 2 into 2 into 2 into 2  4 times 2  How much will be?  16 will be  Simple thing"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 234.0,
+            "end": 241.0,
+            "text": " Try it and see  16 will be  Now here I tell you  The exercise I have given you  Before that I want to show you"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 241.0,
+            "end": 248.0,
+            "text": " A simple thing  I tell you  You have to run this program  If you can't solve the exercise  But I will not run it"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 248.0,
+            "end": 258.0,
+            "text": " Neither I will tell you the explanation of it  This is what I have written for you  You have to see it only when you are not able to solve the exercise  And I know everyone will be able to solve the exercise  It is a very simple exercise"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 258.0,
+            "end": 266.0,
+            "text": " And on the next page of this  You will see the exercise  Which is create a calculator  What you have to do  Is to make a calculator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 266.0,
+            "end": 276.0,
+            "text": " Which is capable of  Performing addition, subtraction, multiplication  And division operations on two numbers  On two numbers  It can do all these operations"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 276.0,
+            "end": 282.0,
+            "text": " You can make two numbers as a variable  I will not give much hint  It is very simple  And you have to show the output  It is very simple"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 282.0,
+            "end": 290.0,
+            "text": " I will give more hint in this also  Because I already know  That comments are going to come  That what is the point of giving such a simple exercise  The point is that"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 290.0,
+            "end": 299.0,
+            "text": " Many people are starting out with programming  So give them confidence  And in them  The curiosity of programming  Wake them up"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 299.0,
+            "end": 305.0,
+            "text": " I hope you will enjoy it  Now I would like to tell one more thing  In the next video  Right next video  I am announcing this also"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 305.0,
+            "end": 312.0,
+            "text": " That this is our video number 7  Day 6  Sorry Day 7  On Day 8  We will solve this question"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 312.0,
+            "end": 320.0,
+            "text": " And I will give shout out to those people  Who will solve this  What you have to do  I will tell you this also  Otherwise you will say that I did not tell"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 320.0,
+            "end": 328.0,
+            "text": " You have to simply  Go to the cover page of this rappel  You will see this rappel like this  Here what you have to do  Is to make your own rappel"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 328.0,
+            "end": 335.0,
+            "text": " Okay  You have made your own rappel  It will be a very simple rappel  In which this calculator will be made  Make sure that by pressing this run button"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 335.0,
+            "end": 342.0,
+            "text": " It will run  By selecting python  You have made your rappel  And after that  You comment the link of that rappel here"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 342.0,
+            "end": 350.0,
+            "text": " This is the comment section of this rappel  In the comment section of rappel of Day 7  Your rappel should be there  And you tell me in the comment section  And tell me in the comment section of rappel 8"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 350.0,
+            "end": 357.0,
+            "text": " Okay  Because what will happen with that  I will open your rappel directly from here  And  I will be able to access your rappel"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 357.0,
+            "end": 364.0,
+            "text": " I am going to give shoutout to those people  Who solve this rappel quickly  But don't do it wrong in a hurry  If you are starting now  Do it with time"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 364.0,
+            "end": 371.0,
+            "text": " Competition is not with anyone  It's just about  I just want you to do it  You do it, it is very important  You do it first, it is not important at all"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 371.0,
+            "end": 376.0,
+            "text": " Believe me  Not at all  And you will also understand this with time  Not at all  Competition"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 376.0,
+            "end": 381.0,
+            "text": " Do it with yourself  Okay  No one has to lose  You have to win yourself  You have to move forward yourself"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 381.0,
+            "end": 386.0,
+            "text": " Okay  With this I end this video  If you have not accessed the playlist yet  Then access the playlist  Or click and click and save"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1： Calculator using Python",
+            "start": 386.0,
+            "end": 390.0,
+            "text": " You can watch this video in the next  Thank you so much guys for watching this video  And I will see you next time"
+        }
+    ],
+    "text": " Today we will know who has the power In this video of 100 days of code you will get an exercise And you have to solve this exercise today And after that you have to give me the solution We will know who will do it If you have the power then solve it Let's go to the computer screen and I will tell you what is the question you have to solve So guys now I would like to tell you about operators And why operators are important And after that I will give you an exercise So operators are simple things We have studied in mathematics If you are in class 5 then you should know what is an operator If you are watching this video in 4th class then listen to what happens Addition is 15 plus 7 Add two numbers You took a toffee for 15 rupees You took a toffee for 7 rupees How much did the shopkeeper get? 21 rupees No wrong answer 22 rupees You don't have attention Listen carefully 15 plus 7 is 22 Similarly 15 minus 7 is 9 Wrong answer 8 will be So keep in mind If I say 9 then your mind should be shocked How did this person say 9 to 15 minus 7 So what is 15 minus 7? You are saying what is he teaching But I am trying to tell you that there are many operators in python You know multiplication If I write here print 5 plus 6 Then you will say that what is this circus going on here I will close this You will say what is this circus going on 5 plus 6 is 11 We know that But what if I tell you I will make it 15 so that I can do minus You also do it And I will restart and then divide All these results will be printed 6, 5, 11, 15, minus 6, 9 And then how much is 15 multiplied by 6 You don't remember the table 90 Then how much is 15 divided by 6 2.5 So you know this thing well What should I tell But a new operator which may be new for some people That is floor division operator If I want to subtract 2.5 from 2.5 and take only 2 Then I will use floor division operator One more operator modulo operator And what does modulo operator do Modulo operator does a simple thing If I wrote 15 percent 6 So it means that if I divide 15 by 6 I will give you a very simple example I do 5 percent 3 If I divide by 3 then 2 will remain It is a simple thing So it remains If I divide 5 by 3 then 2 will remain So 2 is remaining here 15 divided by 6 15 divided by 6 is 2.5 But after dividing it by 2.5 0.5 will be over And only 2 will remain 15 divided by 6 is 2.5 15 multiplied by 6 is 90 So all these are operators Which is addition, subtraction, multiplication Now exponential operator Which I have shown wrong here This is division actually So I will correct it This is division operator And I will tell you what is exponential operator Print 5 If I print it star star 3 Now I print it So it becomes 5 to the power 3 5 multiplied by 5 multiplied by 5 I will fix it and come back How did I write the division in exponential Now some of you will say You made a mistake while making apple Oh man, it happens Mistake is made by humans Now see star star I have written exponential here And I have told you all these operators Try it yourself 5 star star 3 means 5 multiplied by 5 multiplied by 5 3 times If I do 5 star star 4 5 multiplied by 5 multiplied by 5 4 times 5 will be multiplied What will be in between Simple thing 2 double star 4 If I do 2 into 2 into 2 into 2 4 times 2 How much will be? 16 will be Simple thing Try it and see 16 will be Now here I tell you The exercise I have given you Before that I want to show you A simple thing I tell you You have to run this program If you can't solve the exercise But I will not run it Neither I will tell you the explanation of it This is what I have written for you You have to see it only when you are not able to solve the exercise And I know everyone will be able to solve the exercise It is a very simple exercise And on the next page of this You will see the exercise Which is create a calculator What you have to do Is to make a calculator Which is capable of Performing addition, subtraction, multiplication And division operations on two numbers On two numbers It can do all these operations You can make two numbers as a variable I will not give much hint It is very simple And you have to show the output It is very simple I will give more hint in this also Because I already know That comments are going to come That what is the point of giving such a simple exercise The point is that Many people are starting out with programming So give them confidence And in them The curiosity of programming Wake them up I hope you will enjoy it Now I would like to tell one more thing In the next video Right next video I am announcing this also That this is our video number 7 Day 6 Sorry Day 7 On Day 8 We will solve this question And I will give shout out to those people Who will solve this What you have to do I will tell you this also Otherwise you will say that I did not tell You have to simply Go to the cover page of this rappel You will see this rappel like this Here what you have to do Is to make your own rappel Okay You have made your own rappel It will be a very simple rappel In which this calculator will be made Make sure that by pressing this run button It will run By selecting python You have made your rappel And after that You comment the link of that rappel here This is the comment section of this rappel In the comment section of rappel of Day 7 Your rappel should be there And you tell me in the comment section And tell me in the comment section of rappel 8 Okay Because what will happen with that I will open your rappel directly from here And I will be able to access your rappel I am going to give shoutout to those people Who solve this rappel quickly But don't do it wrong in a hurry If you are starting now Do it with time Competition is not with anyone It's just about I just want you to do it You do it, it is very important You do it first, it is not important at all Believe me Not at all And you will also understand this with time Not at all Competition Do it with yourself Okay No one has to lose You have to win yourself You have to move forward yourself Okay With this I end this video If you have not accessed the playlist yet Then access the playlist Or click and click and save You can watch this video in the next Thank you so much guys for watching this video And I will see you next time"
+}

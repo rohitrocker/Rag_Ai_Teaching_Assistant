@@ -1,0 +1,467 @@
+{
+    "chunks": [
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 0.0,
+            "end": 11.0,
+            "text": " You guys are back after 100 days of coding  and I am also excited  and today I will tell you about strings  We have read a lot about strings  We have seen that it is a very special data type"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 11.0,
+            "end": 24.92,
+            "text": " We can write our name, write a poem or anything  We can write strings by enclosing it in double quotes  We have learned this so far  In today's video, I will tell you some more things about strings  and I will show you what are the other ways to make strings"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 24.92,
+            "end": 44.0,
+            "text": " So let's go to the computer screen without wasting time  Let's get started  Intro  So I have come here in my computer screen  and now we are going to do something"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 44.0,
+            "end": 57.0,
+            "text": " We will open a raplet here  So first of all, I open my raplets  and go to my 0 to Eru Python course  and open our today's raplet  So before that, I would like to tell you one thing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 57.0,
+            "end": 67.0,
+            "text": " that many people are mentioning me on Instagram  So I would like to tell you that  all the people who are mentioning me on Instagram  on 100 days of code challenge  I am rementioning everyone"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 67.0,
+            "end": 77.0,
+            "text": " I just want to tell you  In case you want to join me on Instagram  You guys join and tag me daily  Day 5 done, Day 6 done, Day 7 done  It's fun and my energy increases"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 77.0,
+            "end": 91.0,
+            "text": " Today I will tell you about strings  and today we will get to know strings a little closer  We have read about strings  that strings are a very interesting data type  but we will understand what exactly a string is"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 91.0,
+            "end": 101.0,
+            "text": " So what happens is that  if you close anything in Python in double quote  it becomes a string  For example, if I write here  name is equal to Harry in double quote"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 101.0,
+            "end": 112.0,
+            "text": " So this becomes a string  Then I write here  friend is equal to Rohan  So this becomes another string  If I write here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 112.0,
+            "end": 122.0,
+            "text": " another friend is equal to Lovish  So this becomes another string  Now I can make Lovish in single quote  like this  So here double quote and here single quote"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 122.0,
+            "end": 132.0,
+            "text": " and we can make a string  with the help of double quote and single quote  I have written here  In Python anything that you enclose between single and double quotation marks  is considered as a string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 132.0,
+            "end": 142.0,
+            "text": " A string is essentially a sequence of  array of textual data  Strings are used when  working with Unicode characters  So this is a very important thing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 142.0,
+            "end": 152.0,
+            "text": " Here I have given an example  which you can copy and paste  and run it  name is equal to Harry  and then I run this code"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 152.0,
+            "end": 162.0,
+            "text": " So here it is simple  I will get the output  But here you can see  it does not matter whether you enclose your strings in single or double quotes  Output is exactly the same"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 162.0,
+            "end": 172.0,
+            "text": " Sometimes  user has to make double quotation marks  a part of a string  Now I will give you an example  If someone has asked you"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 172.0,
+            "end": 182.0,
+            "text": " to print this thing  If someone has asked you  to print this  and show it in a string  then you can say"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 182.0,
+            "end": 192.0,
+            "text": " Yes, it is fine  If I make a string named apple  and I write in double quotes  He wants to  I will copy whatever it is"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 192.0,
+            "end": 202.0,
+            "text": " I will not take much tension  I will copy it  and paste it here  I will run it and show you  I think it will be printed"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 202.0,
+            "end": 212.0,
+            "text": " But here is an error  Error is saying  that you cannot put double quotes in double quotes  So we have read escape sequence characters  Either we will use that"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 212.0,
+            "end": 222.0,
+            "text": " and do our work  Otherwise what we will do  If we do not do double quotes in backslash  I will print apple here  and show you"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 222.0,
+            "end": 232.0,
+            "text": " If we do not want to do our work  by putting double quotes in backslash  Then we can close the string  in single quotes  Like this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 232.0,
+            "end": 242.0,
+            "text": " Like this  We can close our string in single quotes  And this will also work  Now I will tell you about multi-line strings  If I want to have multiple lines in my string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 242.0,
+            "end": 252.0,
+            "text": " Like if I want to make a string like this  Hey, I am good  I mean multiple lines  I am showing you  someone's chat"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 252.0,
+            "end": 262.0,
+            "text": " He said, Hi Harry  Hey, I am good  I want to eat an apple  Here is an error  EOL while scanning string literal"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 262.0,
+            "end": 272.0,
+            "text": " So when python scans string literal  So basically what it does  Your python will see  Here is a string  And it will find in this line"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 272.0,
+            "end": 282.0,
+            "text": " Where is this character enclosed  And if it does not find it, it will throw an error  And the same thing is being said here  EOL, end of line while scanning string literal  Python is basically saying"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 282.0,
+            "end": 292.0,
+            "text": " I was scanning it  I wanted to see your string literal ending  But I did not see your string literal  ending  So we solve this problem"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 292.0,
+            "end": 302.0,
+            "text": " With triple single quotes or triple double quotes  So whenever we put triple single quotes like this  And here we finish  triple single quotes  So in triple single quotes or triple double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 302.0,
+            "end": 312.0,
+            "text": " If you enclose anything  It becomes a string  So if I run it now  So you will get to see here  Hi, he said, Hi, Harry"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 312.0,
+            "end": 322.0,
+            "text": " Hey, I am good  So you will see this string printed  It is a simple thing  Now why is it useful  Because sometimes we have to write something like this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 322.0,
+            "end": 332.0,
+            "text": " Suppose I copy and paste this whole thing in print  Suppose I say  St is equal to this whole string  So I can make st by putting triple double quotes or triple single quotes  And I will print st"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 332.0,
+            "end": 342.0,
+            "text": " So I will not get any error  Whatever masala I have copied and pasted  If there is a new line in it  So it will be handled  So it becomes very convenient"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 342.0,
+            "end": 352.0,
+            "text": " Now I will erase it  So I have erased the st string  It will be printed  If you use triple double quotes  So this way you can make"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 352.0,
+            "end": 362.0,
+            "text": " Multiline string  Now we have made a string called apple  Or let's do one thing  Let's work on the string named name  If I"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 362.0,
+            "end": 372.0,
+            "text": " Remove print apple  And let it be  If I  Put a for loop  Before that I want to tell you about indexing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 372.0,
+            "end": 382.0,
+            "text": " If I write name 0  So this string  Harry  This is a sequence of characters  And these characters"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 382.0,
+            "end": 392.0,
+            "text": " Are in this position  0, 1, 2, 3, 4  So the index in programming  In most of the programming languages starts from 0  What does this mean"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 392.0,
+            "end": 402.0,
+            "text": " The basic meaning of this is  If you  Name 0 then you will get h  If you name 0 then you will get  First element"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 402.0,
+            "end": 412.0,
+            "text": " If you name 1 then you will get second element  Meaning counting starts from 0  If you count anything from 0  Means you have 5 fingers in your hand  Count these 5 fingers from 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 412.0,
+            "end": 422.0,
+            "text": " 0, 1, 2, 3, 4  So index of 5th finger will be 4  Index of 1st finger will be 0  Ok  It's easy"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 422.0,
+            "end": 432.0,
+            "text": " If I run this  Then h will be printed  Similarly if I print name 1  Then what will happen  Here instead of name 1"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 432.0,
+            "end": 442.0,
+            "text": " A will be printed  And after this r, r, y can also be printed  So in python string is like an array of characters  Is like an array of characters  Like an array of characters"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 442.0,
+            "end": 452.0,
+            "text": " I didn't say exactly  It's like an array of characters  Is like an array of characters  What does array mean  I will tell you"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 452.0,
+            "end": 462.0,
+            "text": " Name 0, name 1, name 2  How far you can go  0, 1, 2, 3, 4  If you try to go till 5  In fact let's try"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 462.0,
+            "end": 472.0,
+            "text": " I know if I try to print name 2  Then r will come, name 3 will also have r  Name 4 will have y  Can I print name 5  Let's try"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 472.0,
+            "end": 482.0,
+            "text": " Maybe something will happen  No nothing happens, error will come  See here it is giving you index error  We are moving forward in this course  Index error means"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 482.0,
+            "end": 492.0,
+            "text": " That your  Object  While iterating it  What happened  The index you tried to access"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 492.0,
+            "end": 502.0,
+            "text": " There was nothing  So this is index error  Now in the whole string manually 0, 1, 2, 3, 4, 5  I will remove it  I will also write here that this throws an error"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 502.0,
+            "end": 512.0,
+            "text": " It throws an error  It will throw an error  Because  There is nothing on 5 index  So I have written this thing here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 512.0,
+            "end": 522.0,
+            "text": " Now what I will do  I have printed 5 characters string  What about apple  If I want to see all the characters of apple  How will I see that"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 522.0,
+            "end": 532.0,
+            "text": " Yes I know I can run 0, 1, 2, 3, 4 train  Till the length of it  There are two problems in this  First I have to calculate its length  Then I have to consider newline characters"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 532.0,
+            "end": 542.0,
+            "text": " I have to consider spaces  I have to consider all the characters of this string  Printed one by one  So the answer is yes  And that is for loop with strings"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 542.0,
+            "end": 552.0,
+            "text": " If you see here  Looping through the string  We can loop through the string using a for loop  Like this  You can use this kind of code"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 552.0,
+            "end": 562.0,
+            "text": " I will show you  I will do this thing  First I will do for name  If I do for name then I will get h, a, r, y again  But"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 562.0,
+            "end": 572.0,
+            "text": " I will do one thing  I will put a print here  Let's use a for loop  And then I will put a backslash n  And"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 572.0,
+            "end": 582.0,
+            "text": " As soon as I run it  You will see here  Let's use a for loop  And h, a, r, y  Now if I want to do the same thing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 582.0,
+            "end": 592.0,
+            "text": " For string named apple  I can do the same thing for string named apple  And it will take all the characters  From top to bottom  Let's use a for loop"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 592.0,
+            "end": 602.0,
+            "text": " H, E, Space  Set ID  All the characters  Literally one by one  It has scanned and printed"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 602.0,
+            "end": 612.0,
+            "text": " Here  I hope you understood  How this for loop works  Basically all the characters are coming in  And this loop is running"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 612.0,
+            "end": 622.0,
+            "text": " But we haven't  Studied about loops yet  What is a loop?  You must be thinking  We haven't studied about loops yet"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 622.0,
+            "end": 632.0,
+            "text": " I will teach you about loops soon  For now  You can understand  This is a black box  And what does this black box do?"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 632.0,
+            "end": 642.0,
+            "text": " It helps us to print all the characters  One by one  And later when we will study about loops  You will understand more easily  If you are coming from any other programming language"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 642.0,
+            "end": 652.0,
+            "text": " Then it will be easier for you to understand  Because you already know  What are loops  So that's it for now  In upcoming videos"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 652.0,
+            "end": 662.0,
+            "text": " I will tell you more about strings  And there we will study  How we can  Do all these things  If you haven't accessed the Python playlist yet"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 662.0,
+            "end": 672.0,
+            "text": " Then access it now  You can click here to bookmark  Or click here to save  That's it for now  Thank you so much for watching"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 672.0,
+            "end": 676.0,
+            "text": " This video and I will see you  Next time"
+        }
+    ],
+    "text": " You guys are back after 100 days of coding and I am also excited and today I will tell you about strings We have read a lot about strings We have seen that it is a very special data type We can write our name, write a poem or anything We can write strings by enclosing it in double quotes We have learned this so far In today's video, I will tell you some more things about strings and I will show you what are the other ways to make strings So let's go to the computer screen without wasting time Let's get started Intro So I have come here in my computer screen and now we are going to do something We will open a raplet here So first of all, I open my raplets and go to my 0 to Eru Python course and open our today's raplet So before that, I would like to tell you one thing that many people are mentioning me on Instagram So I would like to tell you that all the people who are mentioning me on Instagram on 100 days of code challenge I am rementioning everyone I just want to tell you In case you want to join me on Instagram You guys join and tag me daily Day 5 done, Day 6 done, Day 7 done It's fun and my energy increases Today I will tell you about strings and today we will get to know strings a little closer We have read about strings that strings are a very interesting data type but we will understand what exactly a string is So what happens is that if you close anything in Python in double quote it becomes a string For example, if I write here name is equal to Harry in double quote So this becomes a string Then I write here friend is equal to Rohan So this becomes another string If I write here another friend is equal to Lovish So this becomes another string Now I can make Lovish in single quote like this So here double quote and here single quote and we can make a string with the help of double quote and single quote I have written here In Python anything that you enclose between single and double quotation marks is considered as a string A string is essentially a sequence of array of textual data Strings are used when working with Unicode characters So this is a very important thing Here I have given an example which you can copy and paste and run it name is equal to Harry and then I run this code So here it is simple I will get the output But here you can see it does not matter whether you enclose your strings in single or double quotes Output is exactly the same Sometimes user has to make double quotation marks a part of a string Now I will give you an example If someone has asked you to print this thing If someone has asked you to print this and show it in a string then you can say Yes, it is fine If I make a string named apple and I write in double quotes He wants to I will copy whatever it is I will not take much tension I will copy it and paste it here I will run it and show you I think it will be printed But here is an error Error is saying that you cannot put double quotes in double quotes So we have read escape sequence characters Either we will use that and do our work Otherwise what we will do If we do not do double quotes in backslash I will print apple here and show you If we do not want to do our work by putting double quotes in backslash Then we can close the string in single quotes Like this Like this We can close our string in single quotes And this will also work Now I will tell you about multi-line strings If I want to have multiple lines in my string Like if I want to make a string like this Hey, I am good I mean multiple lines I am showing you someone's chat He said, Hi Harry Hey, I am good I want to eat an apple Here is an error EOL while scanning string literal So when python scans string literal So basically what it does Your python will see Here is a string And it will find in this line Where is this character enclosed And if it does not find it, it will throw an error And the same thing is being said here EOL, end of line while scanning string literal Python is basically saying I was scanning it I wanted to see your string literal ending But I did not see your string literal ending So we solve this problem With triple single quotes or triple double quotes So whenever we put triple single quotes like this And here we finish triple single quotes So in triple single quotes or triple double quotes If you enclose anything It becomes a string So if I run it now So you will get to see here Hi, he said, Hi, Harry Hey, I am good So you will see this string printed It is a simple thing Now why is it useful Because sometimes we have to write something like this Suppose I copy and paste this whole thing in print Suppose I say St is equal to this whole string So I can make st by putting triple double quotes or triple single quotes And I will print st So I will not get any error Whatever masala I have copied and pasted If there is a new line in it So it will be handled So it becomes very convenient Now I will erase it So I have erased the st string It will be printed If you use triple double quotes So this way you can make Multiline string Now we have made a string called apple Or let's do one thing Let's work on the string named name If I Remove print apple And let it be If I Put a for loop Before that I want to tell you about indexing If I write name 0 So this string Harry This is a sequence of characters And these characters Are in this position 0, 1, 2, 3, 4 So the index in programming In most of the programming languages starts from 0 What does this mean The basic meaning of this is If you Name 0 then you will get h If you name 0 then you will get First element If you name 1 then you will get second element Meaning counting starts from 0 If you count anything from 0 Means you have 5 fingers in your hand Count these 5 fingers from 0 0, 1, 2, 3, 4 So index of 5th finger will be 4 Index of 1st finger will be 0 Ok It's easy If I run this Then h will be printed Similarly if I print name 1 Then what will happen Here instead of name 1 A will be printed And after this r, r, y can also be printed So in python string is like an array of characters Is like an array of characters Like an array of characters I didn't say exactly It's like an array of characters Is like an array of characters What does array mean I will tell you Name 0, name 1, name 2 How far you can go 0, 1, 2, 3, 4 If you try to go till 5 In fact let's try I know if I try to print name 2 Then r will come, name 3 will also have r Name 4 will have y Can I print name 5 Let's try Maybe something will happen No nothing happens, error will come See here it is giving you index error We are moving forward in this course Index error means That your Object While iterating it What happened The index you tried to access There was nothing So this is index error Now in the whole string manually 0, 1, 2, 3, 4, 5 I will remove it I will also write here that this throws an error It throws an error It will throw an error Because There is nothing on 5 index So I have written this thing here Now what I will do I have printed 5 characters string What about apple If I want to see all the characters of apple How will I see that Yes I know I can run 0, 1, 2, 3, 4 train Till the length of it There are two problems in this First I have to calculate its length Then I have to consider newline characters I have to consider spaces I have to consider all the characters of this string Printed one by one So the answer is yes And that is for loop with strings If you see here Looping through the string We can loop through the string using a for loop Like this You can use this kind of code I will show you I will do this thing First I will do for name If I do for name then I will get h, a, r, y again But I will do one thing I will put a print here Let's use a for loop And then I will put a backslash n And As soon as I run it You will see here Let's use a for loop And h, a, r, y Now if I want to do the same thing For string named apple I can do the same thing for string named apple And it will take all the characters From top to bottom Let's use a for loop H, E, Space Set ID All the characters Literally one by one It has scanned and printed Here I hope you understood How this for loop works Basically all the characters are coming in And this loop is running But we haven't Studied about loops yet What is a loop? You must be thinking We haven't studied about loops yet I will teach you about loops soon For now You can understand This is a black box And what does this black box do? It helps us to print all the characters One by one And later when we will study about loops You will understand more easily If you are coming from any other programming language Then it will be easier for you to understand Because you already know What are loops So that's it for now In upcoming videos I will tell you more about strings And there we will study How we can Do all these things If you haven't accessed the Python playlist yet Then access it now You can click here to bookmark Or click here to save That's it for now Thank you so much for watching This video and I will see you Next time"
+}

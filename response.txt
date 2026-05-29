@@ -1,7 +1,5 @@
-So, you're looking to take a variable in Python. To do this, we need to use assignment operator (=) followed by the name of the variable and the value we want it to hold.
+You're wondering about the input type of Python's input function.
 
-For example, if we want to store the string "hello" in a variable named "greeting", we would write:
+So, in the video "Taking User Input in Python" (Video 10), at around 15 seconds into the video, it's mentioned that whenever you use the input function, Python takes whatever you enter as a string. This means that if you're entering a number, let's say, '5', what happens is that Python stores it in a variable as a string, not as an integer.
 
-`greeting = "hello"`
-
-This is done in Video 3: "Modules and Pip" at timestamp 295.44 seconds.
+For example, if you write "A = input()", and then type 5 when prompted, the value of A will be stored as '5', not 5.

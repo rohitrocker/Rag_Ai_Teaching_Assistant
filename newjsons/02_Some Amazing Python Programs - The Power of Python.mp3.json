@@ -1,0 +1,313 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 0.0,
+            "end": 17.88,
+            "text": " Welcome back to 100 days of code  Today I want to tell you a story of my personal life  When I was in my second year of college, I knew C C++ very well  I was coding, I knew coding, I knew HTML  But I was not able to work in the industry in any way"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 17.88,
+            "end": 34.96,
+            "text": " Maybe I was not getting any C C++ project  Now I am not saying that C C++ is a bad programming language  I have made many conditional related programs with the help of C++  I have done many other things, made great calculators  But I was not able to work in the industry in any way"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 34.96,
+            "end": 55.36,
+            "text": " When I was introduced to Python, I did web scrapping, made GUIs, made applications for Flask  I did a lot of freelancing  And I consider Python as a language that actually taught me the use of programming  Why do we give so much value to programming in the industry?  And why is programming used so much in the industry?"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 55.36,
+            "end": 72.48,
+            "text": " In today's video, I am going to show you some programs that you will enjoy watching  You will also say that it is fun to watch these programs  Because after watching these programs, you will understand the actual use of programming  Programming is used  I will tell you about 5 programs today"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 72.48,
+            "end": 89.6,
+            "text": " And you will also enjoy watching these 5 programs  Some of them are very amazing games  There is a Jarvis virtual assistant that runs on your map  It shows you what you say and what commands you give  The biggest reason to make this course is that there are many new things in Python"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 89.6,
+            "end": 102.39999999999999,
+            "text": " There are many new approaches that I want to tell you  And this brand new course will touch all those things  For example, Valorous operator has come in Python  There are many other additions  There are many easy ways to do things"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 102.39999999999999,
+            "end": 115.84,
+            "text": " So we will cover all these things in this course  I will teach you Python so well  The way a snake runs on its map  You will be able to run Python on your map while programming  You can do whatever you want"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 115.84,
+            "end": 136.12,
+            "text": " So let's go to the showcase  And I will show you my programs  Which I made with the help of Python  Let's get started  So the first program I want to show you is Jarvis virtual assistant"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 136.12,
+            "end": 160.76,
+            "text": " What does this program do?  It takes your commands and after taking your commands  It does some work and shows  As you can see, it has opened YouTube  So it is a very cool program"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 160.76,
+            "end": 179.64,
+            "text": " You give it a command and it basically completes the task  The next program I want to show you is our love calculator  It is a very amazing calculator  Which tells how much love there is between two people  Now obviously, it will not tell accurately"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 179.64,
+            "end": 192.23999999999998,
+            "text": " How much love there is between you and your partner  So you all know  But in a fun way, we made this program using a random module  In which if we put two names  Then it will tell the love percentage"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 192.23999999999998,
+            "end": 201.95999999999998,
+            "text": " That how much love there is between two people  So let's try it out  So I will put Harry in the name  And I will put Payal in the name of my partner  I will calculate 97%"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 201.95999999999998,
+            "end": 212.48,
+            "text": " Okay, great  Now after this, if I write here  Let's say I write Sanskriti here  So 03 comes here  I wrote 3%"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 212.48,
+            "end": 224.52,
+            "text": " This means I should stay away from girls named Sanskriti  Boys named Harry  Okay, so this is a very fun calculator  I hope you will enjoy running it  The next program I want to show you"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 224.52,
+            "end": 233.28,
+            "text": " This is a face recognition program  Which uses the Harkascade algorithm  Basically, it tells in an image  Where is the face  Where is the face"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 233.28,
+            "end": 243.20000000000002,
+            "text": " This is a face detection algorithm  So here you see  In Robert Downey Jr's face  It will tell where the actual face is hidden  In the picture, it will tell where the face is hidden"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 243.20000000000002,
+            "end": 256.04,
+            "text": " So I run it for 1.jpg file  You can run it on your favorite file  So see I run it here  And after running  You see it has detected all the faces from this image"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 256.04,
+            "end": 266.64,
+            "text": " So I can run it for different images  It is not necessary that it will work for one image  It is working for different images  It was a very fun program  It was fun to make it"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 266.64,
+            "end": 275.88,
+            "text": " Our next project is  Flappy Bird game  Which may be someone  There may be someone who has not played this game  Basically it is a very good game"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 275.88,
+            "end": 286.47999999999996,
+            "text": " We play a lot on our phones  But here in your computer  You can play a fresh game made by your hands  Flappy Bird  I can play it"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 286.47999999999996,
+            "end": 294.91999999999996,
+            "text": " Now see I am playing it here  And it will be fun to play it  You see here  So fifth  Last but not the least"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 294.91999999999996,
+            "end": 304.4,
+            "text": " I have made many other projects  But this is something I want to showcase  How to make a snake game in Python  I will play this game and show you  As you can see"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 304.4,
+            "end": 312.16,
+            "text": " This is our black snake  This is the red food  Yes, I know it can be done better  By changing the image  But here I made logic"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 312.16,
+            "end": 325.2,
+            "text": " And see I am playing it  I will break the high score of 90  I can make a lot of scores  I will tell you  I am a very dangerous hardcore gamer"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 325.2,
+            "end": 333.40000000000003,
+            "text": " You can see here  The score is 90  I don't want to get out  No I don't want to get out  Yes, I made a score of 100"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 333.40000000000003,
+            "end": 342.4,
+            "text": " I enjoy it  Playing a game made by your hands  Is something else  I just want to tell you  So in the coming videos"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 342.4,
+            "end": 352.4,
+            "text": " We are going to do something like this  I will tell you  And you will enjoy a lot  Because we will not make only these projects  We will make many such projects"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 352.4,
+            "end": 361.4,
+            "text": " In which we will be converting our ideas  Into reality  Now all these codes  I am going to give you  I want you to"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 361.4,
+            "end": 370.4,
+            "text": " Run all these codes in your system  Whether you are able to do it or not  That is a different thing  But run them  All the modules I have imported above"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 370.4,
+            "end": 380.4,
+            "text": " You guys install them by installing pip  If not now  Then when we go to the module chapter  Install pip and run them again  If you are not able to run them"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 380.4,
+            "end": 388.4,
+            "text": " I hope you guys  Will not have any problem in running them  And if that is also not there  Then we will gradually progress in this course  You come back to this program"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 388.4,
+            "end": 396.4,
+            "text": " And see what was the mistake  I got no module error  So can I fix it?  Can I run it again?  It is not that you have to do everything in this video"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 396.4,
+            "end": 404.4,
+            "text": " I hope you guys will enjoy  In taking these 500 programs  You guys keep them with you  And as we learn  We will move forward in things"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 404.4,
+            "end": 412.4,
+            "text": " Python programming  We will learn further  You guys will do it more easily and well  All these programs  I am giving you guys here"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 412.4,
+            "end": 422.4,
+            "text": " All the 500 programs  Which I have shown you guys  They are present here  You guys can run them on your machine  And you guys are going to enjoy a lot"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 422.4,
+            "end": 432.4,
+            "text": " Some of them are using windows api  So it will run in windows  Like javis virtual assistant  You guys can do it in mac or linux  But we will do this thing"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 432.4,
+            "end": 443.4,
+            "text": " When we will move a little further in the course  You guys run all these programs  And you guys will also enjoy  But don't try to recreate them now  Don't think that I have learned so much python"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 443.4,
+            "end": 450.4,
+            "text": " Now I will make them from scratch  Change these things  If you guys do this  Then maybe you guys will get a little frustration  Because what you don't know"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 450.4,
+            "end": 460.4,
+            "text": " You will try to do that thing  So that's not a good idea  So we will make all these things  I will make dangerous programs from them  So you guys just give me a little time"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 460.4,
+            "end": 468.4,
+            "text": " Keep this 100 days of code journey  Continue  And you guys are going to enjoy too  So this is the link of rappel  You guys have to get it in the description"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 468.4,
+            "end": 480.4,
+            "text": " And one more thing I would like to tell you  And that is  If you guys have not accessed the python 100 days of code playlist  So access it right now  Because all the videos are going to be in this playlist"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 480.4,
+            "end": 490.4,
+            "text": " And if you guys bookmark this playlist  And you will not save  Then maybe you guys will miss some days  I don't want you to miss any day  Bookmark this playlist"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 490.4,
+            "end": 498.4,
+            "text": " And in the coming days  We are going to do a lot of things  Enjoyable  Till then you guys take care of yourself  And I will see you next time"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 498.4,
+            "end": 517.4,
+            "text": " Outro"
+        }
+    ],
+    "text": " Welcome back to 100 days of code Today I want to tell you a story of my personal life When I was in my second year of college, I knew C C++ very well I was coding, I knew coding, I knew HTML But I was not able to work in the industry in any way Maybe I was not getting any C C++ project Now I am not saying that C C++ is a bad programming language I have made many conditional related programs with the help of C++ I have done many other things, made great calculators But I was not able to work in the industry in any way When I was introduced to Python, I did web scrapping, made GUIs, made applications for Flask I did a lot of freelancing And I consider Python as a language that actually taught me the use of programming Why do we give so much value to programming in the industry? And why is programming used so much in the industry? In today's video, I am going to show you some programs that you will enjoy watching You will also say that it is fun to watch these programs Because after watching these programs, you will understand the actual use of programming Programming is used I will tell you about 5 programs today And you will also enjoy watching these 5 programs Some of them are very amazing games There is a Jarvis virtual assistant that runs on your map It shows you what you say and what commands you give The biggest reason to make this course is that there are many new things in Python There are many new approaches that I want to tell you And this brand new course will touch all those things For example, Valorous operator has come in Python There are many other additions There are many easy ways to do things So we will cover all these things in this course I will teach you Python so well The way a snake runs on its map You will be able to run Python on your map while programming You can do whatever you want So let's go to the showcase And I will show you my programs Which I made with the help of Python Let's get started So the first program I want to show you is Jarvis virtual assistant What does this program do? It takes your commands and after taking your commands It does some work and shows As you can see, it has opened YouTube So it is a very cool program You give it a command and it basically completes the task The next program I want to show you is our love calculator It is a very amazing calculator Which tells how much love there is between two people Now obviously, it will not tell accurately How much love there is between you and your partner So you all know But in a fun way, we made this program using a random module In which if we put two names Then it will tell the love percentage That how much love there is between two people So let's try it out So I will put Harry in the name And I will put Payal in the name of my partner I will calculate 97% Okay, great Now after this, if I write here Let's say I write Sanskriti here So 03 comes here I wrote 3% This means I should stay away from girls named Sanskriti Boys named Harry Okay, so this is a very fun calculator I hope you will enjoy running it The next program I want to show you This is a face recognition program Which uses the Harkascade algorithm Basically, it tells in an image Where is the face Where is the face This is a face detection algorithm So here you see In Robert Downey Jr's face It will tell where the actual face is hidden In the picture, it will tell where the face is hidden So I run it for 1.jpg file You can run it on your favorite file So see I run it here And after running You see it has detected all the faces from this image So I can run it for different images It is not necessary that it will work for one image It is working for different images It was a very fun program It was fun to make it Our next project is Flappy Bird game Which may be someone There may be someone who has not played this game Basically it is a very good game We play a lot on our phones But here in your computer You can play a fresh game made by your hands Flappy Bird I can play it Now see I am playing it here And it will be fun to play it You see here So fifth Last but not the least I have made many other projects But this is something I want to showcase How to make a snake game in Python I will play this game and show you As you can see This is our black snake This is the red food Yes, I know it can be done better By changing the image But here I made logic And see I am playing it I will break the high score of 90 I can make a lot of scores I will tell you I am a very dangerous hardcore gamer You can see here The score is 90 I don't want to get out No I don't want to get out Yes, I made a score of 100 I enjoy it Playing a game made by your hands Is something else I just want to tell you So in the coming videos We are going to do something like this I will tell you And you will enjoy a lot Because we will not make only these projects We will make many such projects In which we will be converting our ideas Into reality Now all these codes I am going to give you I want you to Run all these codes in your system Whether you are able to do it or not That is a different thing But run them All the modules I have imported above You guys install them by installing pip If not now Then when we go to the module chapter Install pip and run them again If you are not able to run them I hope you guys Will not have any problem in running them And if that is also not there Then we will gradually progress in this course You come back to this program And see what was the mistake I got no module error So can I fix it? Can I run it again? It is not that you have to do everything in this video I hope you guys will enjoy In taking these 500 programs You guys keep them with you And as we learn We will move forward in things Python programming We will learn further You guys will do it more easily and well All these programs I am giving you guys here All the 500 programs Which I have shown you guys They are present here You guys can run them on your machine And you guys are going to enjoy a lot Some of them are using windows api So it will run in windows Like javis virtual assistant You guys can do it in mac or linux But we will do this thing When we will move a little further in the course You guys run all these programs And you guys will also enjoy But don't try to recreate them now Don't think that I have learned so much python Now I will make them from scratch Change these things If you guys do this Then maybe you guys will get a little frustration Because what you don't know You will try to do that thing So that's not a good idea So we will make all these things I will make dangerous programs from them So you guys just give me a little time Keep this 100 days of code journey Continue And you guys are going to enjoy too So this is the link of rappel You guys have to get it in the description And one more thing I would like to tell you And that is If you guys have not accessed the python 100 days of code playlist So access it right now Because all the videos are going to be in this playlist And if you guys bookmark this playlist And you will not save Then maybe you guys will miss some days I don't want you to miss any day Bookmark this playlist And in the coming days We are going to do a lot of things Enjoyable Till then you guys take care of yourself And I will see you next time Outro"
+}

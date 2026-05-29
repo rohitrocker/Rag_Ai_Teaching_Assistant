@@ -1,0 +1,467 @@
+{
+    "chunks": [
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 0.0,
+            "end": 13.040000000000001,
+            "text": " Oh, what a thing, friends!  Even in day 9, 100 days of code consistency was 10G, huh?  Today, I'll tell you about typecasting.  This term sounds scary to hear,  TYPECASTING."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 13.040000000000001,
+            "end": 24.48,
+            "text": " But I'll tell you that it's a very simple thing.  Look, we made a string variable,  and it has 27 written in it.  We enclosed it in double quotes  because it was a string, so we put 27 in double quotes."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 24.48,
+            "end": 36.2,
+            "text": " But if we add it to 3,  then it won't be 30 because it's a 27 string.  And 3 is an integer.  So if we want to tell Python  that the thing written in double quotes is a valid number,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 36.2,
+            "end": 58.44,
+            "text": " then we can typecast it to an integer by using int function.  We'll see in detail how all these things work in this video.  Let's go to the computer screen and let's get started.  INTRO  Let's see about typecasting today."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 58.44,
+            "end": 67.64,
+            "text": " What is typecasting?  Why is it important?  I got a comment.  I'll tell you what the comment was.  The comment was that I did A plus B."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 67.64,
+            "end": 77.72,
+            "text": " The value of A was 1, the value of B was 2,  and I got the result of A plus B as 12.  So I understood.  I got a smile on my face.  I said, these things, these problems,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 77.72,
+            "end": 87.72,
+            "text": " Harry also used to have these problems once in a while.  And he also used to think like this.  And today he will tell you why you have these problems.  Now see what happens.  Suppose you wrote A is equal to 1."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 88.32,
+            "end": 100.72,
+            "text": " I'm telling you a genuine problem.  Which Python developers know.  And developers get frustrated.  Now you said, I'll print A plus B.  Now you'll say, why are you teaching kids?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 100.72,
+            "end": 111.32,
+            "text": " Why are you teaching kids that 1 plus 2 is 3?  Why are you wasting time in this course?  What did you think?  That 13 will come?  Sorry, 3 will come?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 111.32,
+            "end": 117.52,
+            "text": " 12 came.  Now why did 12 come?  I'll tell you.  A is a string.  B is a string."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 117.52,
+            "end": 131.52,
+            "text": " Python doesn't know that the content in your string is a number.  When Python gets two strings,  it keeps them equal to each other.  If you wrote Harry and Bhai here,  where would you write Harry and Bhai here?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 131.52,
+            "end": 142.12,
+            "text": " I'll show you.  If you wrote Harry and Bhai,  then wouldn't there be a number detection?  Harry would have stuck it side by side.  Because this is how string concatenation is."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 142.32,
+            "end": 151.32,
+            "text": " If you write 1 and 2,  then it will also stick side by side.  So what's the solution?  This 1 is a string.  This 2 is a string."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 151.32,
+            "end": 160.32,
+            "text": " Convert this into an integer.  So I'll press Alt Shift and down arrow  and replicate both the lines.  Okay?  I wrote A is equal to 1."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 160.32,
+            "end": 169.72,
+            "text": " And here I wrote B is equal to 2.  I don't need to comment on these two lines.  Because A's value was a string.  Then I made it 1 as number again.  But for clarity, I'll comment it out."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 169.72,
+            "end": 176.52,
+            "text": " Control plus forward slash.  This is a shortcut.  People keep asking what is the shortcut?  Control plus forward slash.  Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 176.52,
+            "end": 183.72,
+            "text": " If I use this shortcut in the future,  then remember this.  Okay?  I'll come back again.  And A1, B2."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 183.72,
+            "end": 189.12,
+            "text": " Okay?  We'll run.  3 came.  Because this time A was also a number.  And B was also a number."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 189.12,
+            "end": 195.12,
+            "text": " Okay?  Here, I'm getting a lot of complaints.  It's not visible.  Now it's visible.  Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 195.12,
+            "end": 202.72,
+            "text": " It's quite big now.  A1, B2.  So what is typecasting?  I've written it here.  The conversion of one data type"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 202.72,
+            "end": 212.72,
+            "text": " into the other data type is known as  typecasting in Python.  Or it is also called type conversion.  Python supports a lot of functions.  I'm not talking about data types."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 212.72,
+            "end": 222.72,
+            "text": " I'm talking about functions.  Int, str, ord, hex, oct, tuple, set, list, dict.  These are all methods.  These are methods.  I'm not talking about data types."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 222.72,
+            "end": 233.32,
+            "text": " These are all data types.  This is a function.  Which helps any other data type  to convert.  Now it will try to convert."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 233.32,
+            "end": 238.72,
+            "text": " Now you will say,  convert Harry into an integer.  How can I do that?  No, no.  How can I do that?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 238.72,
+            "end": 245.32,
+            "text": " How can I do that?  Harry is written.  It's a name.  Convert it into an integer.  How?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 245.32,
+            "end": 253.32,
+            "text": " Yes, if your string has 1 written in it,  then it's understandable.  That there is one string.  Don't make 1 as a string.  Make 1 as a number."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 253.32,
+            "end": 261.72,
+            "text": " I understand that.  But what is this?  That make Harry a number.  So Python gets frustrated.  It gets angry."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 261.72,
+            "end": 272.72,
+            "text": " And gets mad.  It says,  do you want to convert Harry into a number?  You can't.  There are two types of type castings."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 272.72,
+            "end": 278.72,
+            "text": " But before that,  I'll tell you the basic type casting.  Now suppose I say,  I don't want to make A as a number.  I want to work with this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 278.72,
+            "end": 286.72,
+            "text": " I will have A string, B string.  If I say, I say.  Suppose something like this happens.  So what would I do?  I would use an int function."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 286.72,
+            "end": 297.72,
+            "text": " I would say,  add int of A and int of B.  So 12 doesn't come.  Then it would convert it into an integer.  Then it would convert B into an integer."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 297.72,
+            "end": 303.72,
+            "text": " Convert A into an integer.  Convert B into an integer.  1 and 2 became a number.  If you add both, 3 will come.  Okay."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 303.72,
+            "end": 309.72,
+            "text": " This is the thing.  This is how 3 came here.  If I don't even do this int A int B,  then 1 and 2 were coming.  Okay."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 309.72,
+            "end": 317.72,
+            "text": " But what will happen if I make it 1 Harry?  This time there will be an error.  Python will say,  I can convert 1 into a number.  Because it is a valid integer entry."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 317.72,
+            "end": 327.72,
+            "text": " How can I convert 1 Harry?  Okay.  So that's why Python gives an error.  So your strings should be valid.  If you are converting in any data type."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 327.72,
+            "end": 337.72,
+            "text": " Whichever data type you are converting,  if you are converting in an integer,  then it should be a valid integer.  If you are converting in float,  then it should be a valid float."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 337.72,
+            "end": 344.72,
+            "text": " Means it should be valid.  Python should be able to do its work.  It is not that you have given problems to Python.  Okay.  Now see there are two types of typecasting."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 344.72,
+            "end": 352.72,
+            "text": " One is explicit and one is implicit.  Explicit means I am doing it.  I am doing it willingly.  What is implicit?  Python is doing it automatically."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 352.72,
+            "end": 361.72,
+            "text": " I will tell you about both.  Explicit conversion means  I am doing conversion as a programmer.  I am telling Python interpreter,  Hey Python interpreter,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 361.72,
+            "end": 370.72,
+            "text": " convert this data type into this data type.  Like in this case, what did I do?  I said convert the string into an integer.  Okay.  I said this to Python."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 370.72,
+            "end": 377.72,
+            "text": " Python said,  Okay, I will do it.  And it converted one into an integer.  Converted two into an integer.  When we added both,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 377.72,
+            "end": 384.72,
+            "text": " then two and three came.  Did it come or not?  Absolutely came.  Okay.  So what is explicit conversion?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 384.72,
+            "end": 390.72,
+            "text": " That we are doing it separately.  What is implicit conversion?  That Python is doing it itself.  Okay.  I understood explicit conversion."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 390.72,
+            "end": 397.72,
+            "text": " What should I read so much?  That the conversion of a data type into another data type  done by a developer or programmer  is interventional manually as per the requirement  is known as explicit type conversion."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 397.72,
+            "end": 405.72,
+            "text": " Time is wasted if I read like this.  It can be done by a programmer.  Time is wasted if I read like this.  It can be achieved with the help of Python's built-in function,  conversion function,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 405.72,
+            "end": 411.72,
+            "text": " inflow hex, oct, string, etc.  Okay.  You are watching in 1x.  Don't worry about the video.  Don't check."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 411.72,
+            "end": 417.72,
+            "text": " I gave an example here.  I did the same thing as I did here.  So you run it yourself.  This is your work.  This is your exercise."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 417.72,
+            "end": 423.72,
+            "text": " Do it.  Okay.  Output, the sum of both the numbers is 22.  This will be the output.  See it."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 423.72,
+            "end": 428.72,
+            "text": " Okay.  Now let's talk about implicit type casting.  Implicit type casting means that  Python says,  Brother,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 428.72,
+            "end": 434.72,
+            "text": " you convert your data type.  Let's do it.  You won't do it.  We will do it.  Okay."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 434.72,
+            "end": 441.72,
+            "text": " So I will tell you what happens.  Data types in Python do not have the same level.  Okay.  Ordering of data types is not the same in Python.  Some of the data types have higher order"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 441.72,
+            "end": 449.72,
+            "text": " and some have lower order.  So whenever we perform operations  in two variables,  then a small type,  which is a lower order variable,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 449.72,
+            "end": 454.72,
+            "text": " lower order variable,  is converted to higher order.  Okay.  So I do one thing here.  I write a comment here."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 454.72,
+            "end": 465.72,
+            "text": " I write here,  implicit type  casting.  Now suppose I wrote  c is equal to 1.9"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 465.72,
+            "end": 475.72,
+            "text": " and I wrote d is equal to 8.  So if I write here  print c plus d,  then what will happen?  c plus d will be converted"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 475.72,
+            "end": 480.72,
+            "text": " into an integer.  So what I will get,  sorry, in float,  so the result I will get,  will be in float."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 480.72,
+            "end": 487.72,
+            "text": " Okay.  I got 9.9.  So my data type  will be in float.  So here, as I have written,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 487.72,
+            "end": 495.72,
+            "text": " according to the level,  one data type is converted.  to another automatically  by Python interpreter.  This is called implicit type conversion."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 495.72,
+            "end": 502.72,
+            "text": " Python converts a smaller data type  to a higher data type  to prevent data loss.  If it would have converted c into an integer  and added it, then it would have been 9."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 502.72,
+            "end": 509.72,
+            "text": " But it didn't do that.  It left c in float  and converted d into float.  Float plus float.  C plus d result is 9.9."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 509.72,
+            "end": 516.72,
+            "text": " Okay.  So this is how implicit type casting is done.  I have also given an example in Python.  It is a very similar example.  Okay."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 516.72,
+            "end": 522.72,
+            "text": " What was its type?  Its type was  integer.  Its type was float.  The type of result will be float."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 522.72,
+            "end": 529.72,
+            "text": " Okay.  So you can also use the type function  to find out this thing.  I hope you enjoyed day 9.  If you didn't access the playlist,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 529.72,
+            "end": 535.72,
+            "text": " then do it in Python.  Okay.  Do it now.  Go and bookmark this playlist.  And save this playlist."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 535.72,
+            "end": 540.72,
+            "text": " Okay.  Where will you click and save?  Click here and bookmark.  Click here and save.  See you in the next video."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python",
+            "start": 540.72,
+            "end": 563.72,
+            "text": " Thank you so much guys  for watching this video.  And I will see you in day 10.  Outro"
+        }
+    ],
+    "text": " Oh, what a thing, friends! Even in day 9, 100 days of code consistency was 10G, huh? Today, I'll tell you about typecasting. This term sounds scary to hear, TYPECASTING. But I'll tell you that it's a very simple thing. Look, we made a string variable, and it has 27 written in it. We enclosed it in double quotes because it was a string, so we put 27 in double quotes. But if we add it to 3, then it won't be 30 because it's a 27 string. And 3 is an integer. So if we want to tell Python that the thing written in double quotes is a valid number, then we can typecast it to an integer by using int function. We'll see in detail how all these things work in this video. Let's go to the computer screen and let's get started. INTRO Let's see about typecasting today. What is typecasting? Why is it important? I got a comment. I'll tell you what the comment was. The comment was that I did A plus B. The value of A was 1, the value of B was 2, and I got the result of A plus B as 12. So I understood. I got a smile on my face. I said, these things, these problems, Harry also used to have these problems once in a while. And he also used to think like this. And today he will tell you why you have these problems. Now see what happens. Suppose you wrote A is equal to 1. I'm telling you a genuine problem. Which Python developers know. And developers get frustrated. Now you said, I'll print A plus B. Now you'll say, why are you teaching kids? Why are you teaching kids that 1 plus 2 is 3? Why are you wasting time in this course? What did you think? That 13 will come? Sorry, 3 will come? 12 came. Now why did 12 come? I'll tell you. A is a string. B is a string. Python doesn't know that the content in your string is a number. When Python gets two strings, it keeps them equal to each other. If you wrote Harry and Bhai here, where would you write Harry and Bhai here? I'll show you. If you wrote Harry and Bhai, then wouldn't there be a number detection? Harry would have stuck it side by side. Because this is how string concatenation is. If you write 1 and 2, then it will also stick side by side. So what's the solution? This 1 is a string. This 2 is a string. Convert this into an integer. So I'll press Alt Shift and down arrow and replicate both the lines. Okay? I wrote A is equal to 1. And here I wrote B is equal to 2. I don't need to comment on these two lines. Because A's value was a string. Then I made it 1 as number again. But for clarity, I'll comment it out. Control plus forward slash. This is a shortcut. People keep asking what is the shortcut? Control plus forward slash. Okay? If I use this shortcut in the future, then remember this. Okay? I'll come back again. And A1, B2. Okay? We'll run. 3 came. Because this time A was also a number. And B was also a number. Okay? Here, I'm getting a lot of complaints. It's not visible. Now it's visible. Okay? It's quite big now. A1, B2. So what is typecasting? I've written it here. The conversion of one data type into the other data type is known as typecasting in Python. Or it is also called type conversion. Python supports a lot of functions. I'm not talking about data types. I'm talking about functions. Int, str, ord, hex, oct, tuple, set, list, dict. These are all methods. These are methods. I'm not talking about data types. These are all data types. This is a function. Which helps any other data type to convert. Now it will try to convert. Now you will say, convert Harry into an integer. How can I do that? No, no. How can I do that? How can I do that? Harry is written. It's a name. Convert it into an integer. How? Yes, if your string has 1 written in it, then it's understandable. That there is one string. Don't make 1 as a string. Make 1 as a number. I understand that. But what is this? That make Harry a number. So Python gets frustrated. It gets angry. And gets mad. It says, do you want to convert Harry into a number? You can't. There are two types of type castings. But before that, I'll tell you the basic type casting. Now suppose I say, I don't want to make A as a number. I want to work with this. I will have A string, B string. If I say, I say. Suppose something like this happens. So what would I do? I would use an int function. I would say, add int of A and int of B. So 12 doesn't come. Then it would convert it into an integer. Then it would convert B into an integer. Convert A into an integer. Convert B into an integer. 1 and 2 became a number. If you add both, 3 will come. Okay. This is the thing. This is how 3 came here. If I don't even do this int A int B, then 1 and 2 were coming. Okay. But what will happen if I make it 1 Harry? This time there will be an error. Python will say, I can convert 1 into a number. Because it is a valid integer entry. How can I convert 1 Harry? Okay. So that's why Python gives an error. So your strings should be valid. If you are converting in any data type. Whichever data type you are converting, if you are converting in an integer, then it should be a valid integer. If you are converting in float, then it should be a valid float. Means it should be valid. Python should be able to do its work. It is not that you have given problems to Python. Okay. Now see there are two types of typecasting. One is explicit and one is implicit. Explicit means I am doing it. I am doing it willingly. What is implicit? Python is doing it automatically. I will tell you about both. Explicit conversion means I am doing conversion as a programmer. I am telling Python interpreter, Hey Python interpreter, convert this data type into this data type. Like in this case, what did I do? I said convert the string into an integer. Okay. I said this to Python. Python said, Okay, I will do it. And it converted one into an integer. Converted two into an integer. When we added both, then two and three came. Did it come or not? Absolutely came. Okay. So what is explicit conversion? That we are doing it separately. What is implicit conversion? That Python is doing it itself. Okay. I understood explicit conversion. What should I read so much? That the conversion of a data type into another data type done by a developer or programmer is interventional manually as per the requirement is known as explicit type conversion. Time is wasted if I read like this. It can be done by a programmer. Time is wasted if I read like this. It can be achieved with the help of Python's built-in function, conversion function, inflow hex, oct, string, etc. Okay. You are watching in 1x. Don't worry about the video. Don't check. I gave an example here. I did the same thing as I did here. So you run it yourself. This is your work. This is your exercise. Do it. Okay. Output, the sum of both the numbers is 22. This will be the output. See it. Okay. Now let's talk about implicit type casting. Implicit type casting means that Python says, Brother, you convert your data type. Let's do it. You won't do it. We will do it. Okay. So I will tell you what happens. Data types in Python do not have the same level. Okay. Ordering of data types is not the same in Python. Some of the data types have higher order and some have lower order. So whenever we perform operations in two variables, then a small type, which is a lower order variable, lower order variable, is converted to higher order. Okay. So I do one thing here. I write a comment here. I write here, implicit type casting. Now suppose I wrote c is equal to 1.9 and I wrote d is equal to 8. So if I write here print c plus d, then what will happen? c plus d will be converted into an integer. So what I will get, sorry, in float, so the result I will get, will be in float. Okay. I got 9.9. So my data type will be in float. So here, as I have written, according to the level, one data type is converted. to another automatically by Python interpreter. This is called implicit type conversion. Python converts a smaller data type to a higher data type to prevent data loss. If it would have converted c into an integer and added it, then it would have been 9. But it didn't do that. It left c in float and converted d into float. Float plus float. C plus d result is 9.9. Okay. So this is how implicit type casting is done. I have also given an example in Python. It is a very similar example. Okay. What was its type? Its type was integer. Its type was float. The type of result will be float. Okay. So you can also use the type function to find out this thing. I hope you enjoyed day 9. If you didn't access the playlist, then do it in Python. Okay. Do it now. Go and bookmark this playlist. And save this playlist. Okay. Where will you click and save? Click here and bookmark. Click here and save. See you in the next video. Thank you so much guys for watching this video. And I will see you in day 10. Outro"
+}

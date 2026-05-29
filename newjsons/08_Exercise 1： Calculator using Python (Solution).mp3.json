@@ -1,0 +1,432 @@
+{
+    "chunks": [
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 0.0,
+            "end": 10.0,
+            "text": " 100 days of code  I am feeling good after watching your enthusiasm  and in today's video  I will give a shoutout to all of you  who have solved our exercise 1"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 10.0,
+            "end": 20.0,
+            "text": " and then I will tell you the solution  let's go to the computer screen  and let's get started  intro music  intro music"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 20.0,
+            "end": 30.0,
+            "text": " intro music  intro music  so I have come to my computer screen  and as you can see  I am going to open"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 30.0,
+            "end": 40.0,
+            "text": " the solution's rappel  I have come to my  rappel 0 to hero  day 8, we will see the solution  but along with the solution"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 40.0,
+            "end": 50.0,
+            "text": " we will see  what all  people did in day 7  and in day 7  where is my"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 50.0,
+            "end": 60.0,
+            "text": " day 7 rappel  I will open it  and I will give a shoutout to all of you  who posted their comment  and most importantly"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 60.0,
+            "end": 70.0,
+            "text": " posted the solution  so I will click on the cover page  and see all these people  are posting so fast  we need this kind of tempo"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 70.0,
+            "end": 80.0,
+            "text": " we will rock in 100 days of code  20 seconds ago, 23 seconds ago  I want that we rock  in this 100 days of code  series"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 80.0,
+            "end": 90.0,
+            "text": " so you see  what we talked about  we talked about making a calculator  yes I know I told you  some things like what is data type"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 90.0,
+            "end": 100.0,
+            "text": " we talked about all these things  but this exercise was  very simple and I got comments  and I said in the video  that why are you making"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 100.0,
+            "end": 110.0,
+            "text": " such an easy thing  some people are starting  programming here, you give me  5 to 6 days time and see  where I will take the level and"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 110.0,
+            "end": 120.0,
+            "text": " I will ensure that everyone understands  now here we have to  add, subtract, multiply and divide  I didn't say modulo or floor division  you can add if you want"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 120.0,
+            "end": 130.0,
+            "text": " but here I will simply say  a is equal to 56 and b is equal to  7 or 3  and see what I am going to do  I will make it easy so that"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 130.0,
+            "end": 140.0,
+            "text": " I can verify my calculation  the value of  and I will write  50  so I will write 50"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 140.0,
+            "end": 150.0,
+            "text": " or I will write a  and then I will write  plus  and then I will write  value of b"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 150.0,
+            "end": 160.0,
+            "text": " 3 is  plus  basically I am adding  I will put a comma here  by doing this it will be"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 160.0,
+            "end": 170.0,
+            "text": " the value of a string  then this is a string and this is a number  it will be printed  then I will put a comma  and here I will put a comma"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 170.0,
+            "end": 180.0,
+            "text": " and print a plus b  and now you see  as soon as I run it  its output will come  so I can do the same thing"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 180.0,
+            "end": 190.0,
+            "text": " that I have done here  I can do the same thing  with other operations  now see I don't need to put this  I don't need to give space"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 190.0,
+            "end": 200.0,
+            "text": " automatically a space comes  when we put a comma in print  so this is going to be printed  now I have to replicate this  alt plus shift plus down arrow is a shortcut of vs code"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 200.0,
+            "end": 210.0,
+            "text": " line gets replicated  line  alt plus shift plus down arrow  I am not doing any magic  I am not doing any magic"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 210.0,
+            "end": 220.0,
+            "text": " and whatever magic I am doing you can also do it  its a simple thing not only in this series but in life  whatever I am doing you can do it  and if anyone is doing it  you can do it"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 220.0,
+            "end": 230.0,
+            "text": " if anyone says you can't do it  then he is lying to you  so here I will do  value of a divided by 3 is  this a by b value"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 230.0,
+            "end": 240.0,
+            "text": " will come  50 plus 3  now I don't know what to do  I am pressing alt shift  and clicking"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 240.0,
+            "end": 250.0,
+            "text": " I am pressing alt and clicking  something like this  I will press alt and click  and I will get multiple cursor  and I can edit in all of them"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 250.0,
+            "end": 260.0,
+            "text": " you can see how amazing this is  and you should know this  so here you can see all the shortcuts of vs code  are available in raplet  I am using raplet so that things become easy"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 260.0,
+            "end": 270.0,
+            "text": " you can see here value of 50 plus 3  50 minus 3  50 multiplied by 3 and 50 divided by 3  value is also here  and that's about it"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 270.0,
+            "end": 280.0,
+            "text": " this is the solution to our first exercise no.1  now I will come to exercise no.1  in rapel  one reload is required  see who all are giving solution"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 280.0,
+            "end": 290.0,
+            "text": " first solution is given by Taha Pasha  Ashitosh Zolte  has given 4 seconds  I hope I pronounced your name right  if I pronounce someone's name wrong"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 290.0,
+            "end": 300.0,
+            "text": " then please forgive me  otherwise comments will come  that my name is pronounced wrong  now here I am going to  load more comments"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 300.0,
+            "end": 310.0,
+            "text": " I know I won't be able to reach below  but it will be unfair if I don't  so I am loading more comments  what is this  I am going to take my time"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 310.0,
+            "end": 320.0,
+            "text": " and I am going to  oops  I will scroll it down  give me some time  so I have scrolled it"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 320.0,
+            "end": 330.0,
+            "text": " I have to see  here are some raples  I am going to see them  link was not working  I have uploaded this on day 6"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 330.0,
+            "end": 340.0,
+            "text": " link was not working  I think link will work  click once  calculator  give shoutout to all"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 340.0,
+            "end": 350.0,
+            "text": " shoutout to all with high tempo  by the way in case  you are in hurry and want to move  on next topic you can leave this video  because here shoutout is going on"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 350.0,
+            "end": 360.0,
+            "text": " so I will give shoutout  Kunal Panchal  try to  when you click on run  your rapel will run"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 360.0,
+            "end": 370.0,
+            "text": " I can see files but your rapel is not running  so ensure that your rapel  is running by clicking on run  and well you did it  really quick"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 370.0,
+            "end": 380.0,
+            "text": " Kunal Panchal  let me see your code  so here you have  6 then 9  don't use all these"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 380.0,
+            "end": 390.0,
+            "text": " disqualified man  disqualified just kidding  but actually disqualified  I am kidding but actually disqualified  it doesn't matter"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 390.0,
+            "end": 400.0,
+            "text": " but it is disqualified  which I have not taught yet  did I say this in first video  in last video yes it can be your argument  that you didn't say anything"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 400.0,
+            "end": 410.0,
+            "text": " so it is ok  not disqualified for now but in future  if I have never said  whatever I have taught till day 7  you have to use that much"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 410.0,
+            "end": 420.0,
+            "text": " knowledge only  you use fls, match case  then you use artificial intelligence  use anything you know everyone knows  but your rapel has to run"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 420.0,
+            "end": 430.0,
+            "text": " oh what happened  actually I had to choose numbers from above  so I  choose 3  actually I gave invalid input"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 430.0,
+            "end": 440.0,
+            "text": " you handled the error also  4 I will write then 5  then 1 will write then 9 will come  very good  now after this next shoutout"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 440.0,
+            "end": 450.0,
+            "text": " will be given to Suryansh Kumar  Suryansh Kumar has made this rapel  and has received 3 comments  big thumbs up to you man  I have started it on time"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 450.0,
+            "end": 460.0,
+            "text": " but are you disqualified  oh I gave wrong operation  let me see how it behaves on wrong operation  ok now I don't have to do  much error handling so there is no need to"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 460.0,
+            "end": 470.0,
+            "text": " worry, first number is 4  second number is 65  oops  I am making mistake every time  I am putting second number instead of operation"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 470.0,
+            "end": 480.0,
+            "text": " so your user interface should not be confusing  ok  see user will make mistake and blame you  so you should remember this  plus"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 480.0,
+            "end": 490.0,
+            "text": " and 3 6.0  great big shoutout to Suryansh Kumar  after this we would like to give shoutout  to Kirtin, Tushar Gameplex  to Sobin Banerjee"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 490.0,
+            "end": 500.0,
+            "text": " then Omesh Goyal  for trying this out  then Nirmith Mishra  then 21BEIT  30010OM"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 500.0,
+            "end": 510.0,
+            "text": " for giving shoutout  tell me in comment below  oh my god  Piyush Goyal  what have you shown"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 510.0,
+            "end": 520.0,
+            "text": " in such a great and dangerous Rappel  Piyush Goyal  very good Piyush Goyal  first number is 4  second number is 1"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 520.0,
+            "end": 530.0,
+            "text": " amazing man  big shoutout to Piyush Goyal  for attempting this Rappel  day 7 calculator  great"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 530.0,
+            "end": 540.0,
+            "text": " I am running  let me see code  you have written good code but you have used input  why you used input  why you used input"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 540.0,
+            "end": 550.0,
+            "text": " you could have used hardcode  but no problem  you should have used input  great  big shoutout to Candy instead"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 550.0,
+            "end": 560.0,
+            "text": " after this big shoutout to Priyanka Garg  and in coming videos  we will see many more things  and coming exercises  will not be that easy"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 560.0,
+            "end": 570.0,
+            "text": " I have seen many people  saying that your exercises are very easy  so my friends  wait  be patient"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 570.0,
+            "end": 580.0,
+            "text": " the fruit of patience  is strawberry flavor  so be patient  and in coming videos  we will increase level"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 580.0,
+            "end": 590.0,
+            "text": " and if you are watching this  on day 70 or 80  then there will be a different level  I hope you are enjoying this course  I will put the link in description"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 590.0,
+            "end": 600.0,
+            "text": " you will get all rappels  keep practicing like this  and we will make it  and we will make it  that's it for now"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1： Calculator using Python (Solution)",
+            "start": 600.0,
+            "end": 622.0,
+            "text": " thank you so much for watching this video  and I will see you next time  music"
+        }
+    ],
+    "text": " 100 days of code I am feeling good after watching your enthusiasm and in today's video I will give a shoutout to all of you who have solved our exercise 1 and then I will tell you the solution let's go to the computer screen and let's get started intro music intro music intro music intro music so I have come to my computer screen and as you can see I am going to open the solution's rappel I have come to my rappel 0 to hero day 8, we will see the solution but along with the solution we will see what all people did in day 7 and in day 7 where is my day 7 rappel I will open it and I will give a shoutout to all of you who posted their comment and most importantly posted the solution so I will click on the cover page and see all these people are posting so fast we need this kind of tempo we will rock in 100 days of code 20 seconds ago, 23 seconds ago I want that we rock in this 100 days of code series so you see what we talked about we talked about making a calculator yes I know I told you some things like what is data type we talked about all these things but this exercise was very simple and I got comments and I said in the video that why are you making such an easy thing some people are starting programming here, you give me 5 to 6 days time and see where I will take the level and I will ensure that everyone understands now here we have to add, subtract, multiply and divide I didn't say modulo or floor division you can add if you want but here I will simply say a is equal to 56 and b is equal to 7 or 3 and see what I am going to do I will make it easy so that I can verify my calculation the value of and I will write 50 so I will write 50 or I will write a and then I will write plus and then I will write value of b 3 is plus basically I am adding I will put a comma here by doing this it will be the value of a string then this is a string and this is a number it will be printed then I will put a comma and here I will put a comma and print a plus b and now you see as soon as I run it its output will come so I can do the same thing that I have done here I can do the same thing with other operations now see I don't need to put this I don't need to give space automatically a space comes when we put a comma in print so this is going to be printed now I have to replicate this alt plus shift plus down arrow is a shortcut of vs code line gets replicated line alt plus shift plus down arrow I am not doing any magic I am not doing any magic and whatever magic I am doing you can also do it its a simple thing not only in this series but in life whatever I am doing you can do it and if anyone is doing it you can do it if anyone says you can't do it then he is lying to you so here I will do value of a divided by 3 is this a by b value will come 50 plus 3 now I don't know what to do I am pressing alt shift and clicking I am pressing alt and clicking something like this I will press alt and click and I will get multiple cursor and I can edit in all of them you can see how amazing this is and you should know this so here you can see all the shortcuts of vs code are available in raplet I am using raplet so that things become easy you can see here value of 50 plus 3 50 minus 3 50 multiplied by 3 and 50 divided by 3 value is also here and that's about it this is the solution to our first exercise no.1 now I will come to exercise no.1 in rapel one reload is required see who all are giving solution first solution is given by Taha Pasha Ashitosh Zolte has given 4 seconds I hope I pronounced your name right if I pronounce someone's name wrong then please forgive me otherwise comments will come that my name is pronounced wrong now here I am going to load more comments I know I won't be able to reach below but it will be unfair if I don't so I am loading more comments what is this I am going to take my time and I am going to oops I will scroll it down give me some time so I have scrolled it I have to see here are some raples I am going to see them link was not working I have uploaded this on day 6 link was not working I think link will work click once calculator give shoutout to all shoutout to all with high tempo by the way in case you are in hurry and want to move on next topic you can leave this video because here shoutout is going on so I will give shoutout Kunal Panchal try to when you click on run your rapel will run I can see files but your rapel is not running so ensure that your rapel is running by clicking on run and well you did it really quick Kunal Panchal let me see your code so here you have 6 then 9 don't use all these disqualified man disqualified just kidding but actually disqualified I am kidding but actually disqualified it doesn't matter but it is disqualified which I have not taught yet did I say this in first video in last video yes it can be your argument that you didn't say anything so it is ok not disqualified for now but in future if I have never said whatever I have taught till day 7 you have to use that much knowledge only you use fls, match case then you use artificial intelligence use anything you know everyone knows but your rapel has to run oh what happened actually I had to choose numbers from above so I choose 3 actually I gave invalid input you handled the error also 4 I will write then 5 then 1 will write then 9 will come very good now after this next shoutout will be given to Suryansh Kumar Suryansh Kumar has made this rapel and has received 3 comments big thumbs up to you man I have started it on time but are you disqualified oh I gave wrong operation let me see how it behaves on wrong operation ok now I don't have to do much error handling so there is no need to worry, first number is 4 second number is 65 oops I am making mistake every time I am putting second number instead of operation so your user interface should not be confusing ok see user will make mistake and blame you so you should remember this plus and 3 6.0 great big shoutout to Suryansh Kumar after this we would like to give shoutout to Kirtin, Tushar Gameplex to Sobin Banerjee then Omesh Goyal for trying this out then Nirmith Mishra then 21BEIT 30010OM for giving shoutout tell me in comment below oh my god Piyush Goyal what have you shown in such a great and dangerous Rappel Piyush Goyal very good Piyush Goyal first number is 4 second number is 1 amazing man big shoutout to Piyush Goyal for attempting this Rappel day 7 calculator great I am running let me see code you have written good code but you have used input why you used input why you used input you could have used hardcode but no problem you should have used input great big shoutout to Candy instead after this big shoutout to Priyanka Garg and in coming videos we will see many more things and coming exercises will not be that easy I have seen many people saying that your exercises are very easy so my friends wait be patient the fruit of patience is strawberry flavor so be patient and in coming videos we will increase level and if you are watching this on day 70 or 80 then there will be a different level I hope you are enjoying this course I will put the link in description you will get all rappels keep practicing like this and we will make it and we will make it that's it for now thank you so much for watching this video and I will see you next time music"
+}
