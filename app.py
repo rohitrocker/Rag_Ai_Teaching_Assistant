@@ -42,7 +42,6 @@ def cosine_similarity(a, b):
 # =========================
 # Find Best Matching Chunk
 # =========================
-
 def retrieve(query):
 
     query_embedding = get_embedding(query)
@@ -50,8 +49,8 @@ def retrieve(query):
     best_score = -1
     best_chunk = None
 
-    # Loop through chunks
-    for item in data["chunks"]:
+    # Loop through dataframe rows
+    for _, item in data.iterrows():
 
         score = cosine_similarity(
             query_embedding,
